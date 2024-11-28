@@ -1,0 +1,4129 @@
+2024-07-25 18:51:55 - Tour info: Array
+(
+    [id] => 54381
+    [order_date] => 2024-07-25 18:47:20
+    [from_stop] => 87
+    [to_stop] => 99
+    [tour_date] => 2024-07-27
+    [passagers] => 1
+    [client_name] => Наталья
+    [client_surname] => Епишева
+    [client_email] => natalaepistva23@gmail.com
+    [client_phone] => +38 (068) 137-9060
+)
+
+2024-07-25 18:51:55 - Tour info: Array
+(
+    [tour_id] => 37
+    [tour_date] => 2024-07-27
+    [passagers] => 1
+)
+
+2024-07-25 18:51:55 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 20:00:00
+    [arrival_station] => Зупинка &#34;Супермаркет BIILA&#34;
+    [arrival_city] => Варна
+    [bus] => Автобус на 49 місць
+    [price] => 1700
+)
+
+2024-07-25 18:51:55 - Tour info: Старосінна
+2024-07-25 18:51:55 - Tour info: Зупинка &#34;Супермаркет BIILA&#34;
+2024-07-25 18:51:55 - Tour info: Одеса
+2024-07-25 18:51:55 - Tour info: Варна
+2024-07-25 18:51:55 - $passengers
+2024-07-25 18:51:55 - HELLO
+2024-07-25 18:51:55 - GOT 1st ONE
+2024-07-25 18:51:55 - Tickets outputed
+2024-07-27 15:04:00 - Tour info: Array
+(
+    [id] => 54383
+    [order_date] => 2024-07-27 15:03:26
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-16
+    [passagers] => 4
+    [client_name] => Ігор
+    [client_surname] => Бучацький
+    [client_email] => irina-bu@ukr.net
+    [client_phone] => +38 (067) 484-8074
+)
+
+2024-07-27 15:04:00 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-08-16
+    [passagers] => 4
+)
+
+2024-07-27 15:04:00 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-07-27 15:04:00 - Tour info: Старосінна
+2024-07-27 15:04:00 - Tour info: &#34;Готель Континенталь&#34;
+2024-07-27 15:04:00 - Tour info: Одеса
+2024-07-27 15:04:00 - Tour info: Бухарест
+2024-07-27 15:04:00 - $passengers
+2024-07-27 15:04:00 - HELLO
+2024-07-27 15:04:00 - GOT 1st ONE
+2024-07-27 15:04:00 - EHEHEHE
+2024-07-27 15:04:00 - Page added
+2024-07-27 15:04:00 - Ticket added
+2024-07-27 15:04:00 - EHEHEHE
+2024-07-27 15:04:00 - Page added
+2024-07-27 15:04:00 - Ticket added
+2024-07-27 15:04:00 - EHEHEHE
+2024-07-27 15:04:00 - Page added
+2024-07-27 15:04:00 - Ticket added
+2024-07-27 15:04:00 - Tickets outputed
+2024-07-28 17:42:05 - Tour info: Array
+(
+    [id] => 1000000
+    [order_date] => 2024-07-28 17:41:51
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-08-16
+    [passagers] => 1
+    [client_name] => Шульга
+    [client_surname] => Ольга
+    [client_email] => sh.olga.fox@gmail.com
+    [client_phone] => +38 (095) 714-3424
+)
+
+2024-07-28 17:42:05 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-08-16
+    [passagers] => 1
+)
+
+2024-07-28 17:42:05 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-07-28 17:42:05 - Tour info: &#34;Готель Континенталь&#34;
+2024-07-28 17:42:05 - Tour info: Старосінна
+2024-07-28 17:42:05 - Tour info: Бухарест
+2024-07-28 17:42:05 - Tour info: Одеса
+2024-07-28 17:42:05 - $passengers
+2024-07-28 17:42:05 - HELLO
+2024-07-28 17:42:05 - GOT 1st ONE
+2024-07-28 17:42:05 - Tickets outputed
+2024-07-28 18:01:41 - Tour info: Array
+(
+    [id] => 1000001
+    [order_date] => 2024-07-28 18:01:31
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-29
+    [passagers] => 1
+    [client_name] => Ольга
+    [client_surname] => Шульга
+    [client_email] => sh.olga.fox@gmail.com
+    [client_phone] => +38 (095) 714-3424
+)
+
+2024-07-28 18:01:41 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-08-29
+    [passagers] => 1
+)
+
+2024-07-28 18:01:41 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-07-28 18:01:41 - Tour info: Старосінна
+2024-07-28 18:01:41 - Tour info: &#34;Готель Континенталь&#34;
+2024-07-28 18:01:41 - Tour info: Одеса
+2024-07-28 18:01:41 - Tour info: Бухарест
+2024-07-28 18:01:41 - $passengers
+2024-07-28 18:01:41 - HELLO
+2024-07-28 18:01:41 - GOT 1st ONE
+2024-07-28 18:01:41 - Tickets outputed
+2024-07-28 18:43:39 - Tour info: Array
+(
+    [id] => 1000002
+    [order_date] => 2024-07-28 18:41:57
+    [from_stop] => 179
+    [to_stop] => 87
+    [tour_date] => 2024-09-05
+    [passagers] => 2
+    [client_name] => Анастасія
+    [client_surname] => Пейчева
+    [client_email] => vicnotar@ukr.net
+    [client_phone] => +38 (067) 574-2217
+)
+
+2024-07-28 18:43:39 - Tour info: Array
+(
+    [tour_id] => 40
+    [tour_date] => 2024-09-05
+    [passagers] => 2
+)
+
+2024-07-28 18:43:39 - Tour info: Array
+(
+    [departure_time] => 07:25:00
+    [departure_station] => Золоті Піски
+    [departure_city] => Варна
+    [arrival_time] => 18:35:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Одеса
+    [bus] => Автобус на 49 місць
+    [price] => 1700
+)
+
+2024-07-28 18:43:39 - Tour info: Золоті Піски
+2024-07-28 18:43:39 - Tour info: Старосінна
+2024-07-28 18:43:39 - Tour info: Золоті Піски
+2024-07-28 18:43:39 - Tour info: Одеса
+2024-07-28 18:43:39 - $passengers
+2024-07-28 18:43:39 - HELLO
+2024-07-28 18:43:39 - GOT 1st ONE
+2024-07-28 18:43:39 - EHEHEHE
+2024-07-28 18:43:39 - Page added
+2024-07-28 18:43:39 - Ticket added
+2024-07-28 18:43:39 - Tickets outputed
+2024-08-01 14:04:23 - Tour info: Array
+(
+    [id] => 1000006
+    [order_date] => 2024-08-01 14:02:40
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-04
+    [passagers] => 2
+    [client_name] => Світлана
+    [client_surname] => Постнова
+    [client_email] => omsp21buh@ukr.net
+    [client_phone] => +38 (096) 322-1143
+)
+
+2024-08-01 14:04:23 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-08-04
+    [passagers] => 2
+)
+
+2024-08-01 14:04:23 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-01 14:04:23 - Tour info: Старосінна
+2024-08-01 14:04:23 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-01 14:04:23 - Tour info: Одеса
+2024-08-01 14:04:23 - Tour info: Бухарест
+2024-08-01 14:04:23 - Array
+2024-08-01 14:04:23 - HELLO
+2024-08-01 14:04:23 - GOT 1st ONE
+2024-08-01 14:04:23 - EHEHEHE
+2024-08-01 14:04:23 - Page added
+2024-08-01 14:04:23 - Ticket added
+2024-08-01 14:04:23 - Tickets outputed
+2024-08-04 22:27:18 - Tour info: Array
+(
+    [id] => 1000010
+    [order_date] => 2024-08-04 22:27:07
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-08-31
+    [passagers] => 1
+    [client_name] => Анна
+    [client_surname] => Орел
+    [client_email] => orelann2017@gmail.com
+    [client_phone] => +38 (097) 621-3685
+)
+
+2024-08-04 22:27:18 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-08-31
+    [passagers] => 1
+)
+
+2024-08-04 22:27:18 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-04 22:27:18 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-04 22:27:18 - Tour info: Старосінна
+2024-08-04 22:27:18 - Tour info: Бухарест
+2024-08-04 22:27:18 - Tour info: Одеса
+2024-08-04 22:27:18 - Array
+2024-08-04 22:27:18 - HELLO
+2024-08-04 22:27:18 - GOT 1st ONE
+2024-08-04 22:27:18 - Tickets outputed
+2024-08-08 15:00:01 - Tour info: Array
+(
+    [id] => 1000013
+    [order_date] => 2024-08-08 14:51:45
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-08-29
+    [passagers] => 2
+    [client_name] => Сергей
+    [client_surname] => Тодоров
+    [client_email] => list4todor@gmail.com
+    [client_phone] => +38 (095) 740-6931
+)
+
+2024-08-08 15:00:01 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-08-29
+    [passagers] => 2
+)
+
+2024-08-08 15:00:01 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-08 15:00:01 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-08 15:00:01 - Tour info: Старосінна
+2024-08-08 15:00:01 - Tour info: Бухарест
+2024-08-08 15:00:01 - Tour info: Одеса
+2024-08-08 15:00:01 - Array
+2024-08-08 15:00:01 - HELLO
+2024-08-08 15:00:01 - GOT 1st ONE
+2024-08-08 15:00:01 - EHEHEHE
+2024-08-08 15:00:01 - Page added
+2024-08-08 15:00:01 - Ticket added
+2024-08-08 15:00:01 - Tickets outputed
+2024-08-08 15:02:31 - Tour info: Array
+(
+    [id] => 1000013
+    [order_date] => 2024-08-08 14:51:45
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-08-29
+    [passagers] => 2
+    [client_name] => Сергей
+    [client_surname] => Тодоров
+    [client_email] => list4todor@gmail.com
+    [client_phone] => +38 (095) 740-6931
+)
+
+2024-08-08 15:02:31 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-08-29
+    [passagers] => 2
+)
+
+2024-08-08 15:02:31 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-08 15:02:31 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-08 15:02:31 - Tour info: Старосінна
+2024-08-08 15:02:31 - Tour info: Бухарест
+2024-08-08 15:02:31 - Tour info: Одеса
+2024-08-08 15:02:31 - Array
+2024-08-08 15:02:31 - HELLO
+2024-08-08 15:02:31 - GOT 1st ONE
+2024-08-08 15:02:32 - EHEHEHE
+2024-08-08 15:02:32 - Page added
+2024-08-08 15:02:32 - Ticket added
+2024-08-08 15:02:32 - Tickets outputed
+2024-08-09 20:04:14 - Tour info: Array
+(
+    [id] => 1000015
+    [order_date] => 2024-08-09 20:01:29
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-08-16
+    [passagers] => 2
+    [client_name] => DENYS
+    [client_surname] => RUDENKO
+    [client_email] => alex04111986@gmail.com
+    [client_phone] => +38 (050) 358-3421
+)
+
+2024-08-09 20:04:14 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-08-16
+    [passagers] => 2
+)
+
+2024-08-09 20:04:14 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-08-09 20:04:14 - Tour info: АВ &#34;Центральний&#34;
+2024-08-09 20:04:14 - Tour info: АВ &#34;Центральний&#34;
+2024-08-09 20:04:14 - Tour info: Київ
+2024-08-09 20:04:14 - Tour info: Софія
+2024-08-09 20:04:14 - Array
+2024-08-09 20:04:14 - HELLO
+2024-08-09 20:04:14 - GOT 1st ONE
+2024-08-09 20:04:15 - EHEHEHE
+2024-08-09 20:04:15 - Page added
+2024-08-09 20:04:15 - Ticket added
+2024-08-09 20:04:15 - Tickets outputed
+2024-08-11 17:35:57 - Tour info: Array
+(
+    [id] => 1000016
+    [order_date] => 2024-08-11 17:34:44
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-08-13
+    [passagers] => 1
+    [client_name] => Юлия
+    [client_surname] => Меделяева
+    [client_email] => Dahad813@gmail.com
+    [client_phone] => +38 (068) 404-5434
+)
+
+2024-08-11 17:35:57 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-08-13
+    [passagers] => 1
+)
+
+2024-08-11 17:35:57 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-08-11 17:35:57 - Tour info: АВ &#34;Центральний&#34;
+2024-08-11 17:35:57 - Tour info: АВ &#34;Центральний&#34;
+2024-08-11 17:35:57 - Tour info: Київ
+2024-08-11 17:35:57 - Tour info: Софія
+2024-08-11 17:35:57 - Array
+2024-08-11 17:35:57 - HELLO
+2024-08-11 17:35:57 - GOT 1st ONE
+2024-08-11 17:35:57 - Tickets outputed
+2024-08-12 18:21:13 - Tour info: Array
+(
+    [id] => 1000018
+    [order_date] => 2024-08-12 18:20:19
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-18
+    [passagers] => 3
+    [client_name] => Наталя
+    [client_surname] => Павлова
+    [client_email] => neirologo@gmail.com
+    [client_phone] => +38 (097) 296-3044
+)
+
+2024-08-12 18:21:13 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-08-18
+    [passagers] => 3
+)
+
+2024-08-12 18:21:13 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-12 18:21:13 - Tour info: Старосінна
+2024-08-12 18:21:13 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-12 18:21:13 - Tour info: Одеса
+2024-08-12 18:21:13 - Tour info: Бухарест
+2024-08-12 18:21:13 - Array
+2024-08-12 18:21:13 - HELLO
+2024-08-12 18:21:13 - GOT 1st ONE
+2024-08-12 18:21:13 - EHEHEHE
+2024-08-12 18:21:13 - Page added
+2024-08-12 18:21:13 - Ticket added
+2024-08-12 18:21:13 - EHEHEHE
+2024-08-12 18:21:13 - Page added
+2024-08-12 18:21:13 - Ticket added
+2024-08-12 18:21:13 - Tickets outputed
+2024-08-12 20:14:50 - Tour info: Array
+(
+    [id] => 1000017
+    [order_date] => 2024-08-12 18:00:33
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+    [client_name] => Наталья
+    [client_surname] => Новикова
+    [client_email] => lastoca1996@gmail.com
+    [client_phone] => +38 (096) 115-9145
+)
+
+2024-08-12 20:14:50 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+)
+
+2024-08-12 20:14:50 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-12 20:14:50 - Tour info: Старосінна
+2024-08-12 20:14:50 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-12 20:14:50 - Tour info: Одеса
+2024-08-12 20:14:50 - Tour info: Бухарест
+2024-08-12 20:14:50 - Array
+2024-08-12 20:14:50 - HELLO
+2024-08-12 20:14:50 - GOT 1st ONE
+2024-08-12 20:14:50 - Tickets outputed
+2024-08-13 01:25:09 - Tour info: Array
+(
+    [id] => 1000017
+    [order_date] => 2024-08-12 18:00:33
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+    [client_name] => Наталья
+    [client_surname] => Новикова
+    [client_email] => lastoca1996@gmail.com
+    [client_phone] => +38 (096) 115-9145
+)
+
+2024-08-13 01:25:09 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+)
+
+2024-08-13 01:25:09 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-13 01:25:09 - Tour info: Старосінна
+2024-08-13 01:25:09 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-13 01:25:09 - Tour info: Одеса
+2024-08-13 01:25:09 - Tour info: Бухарест
+2024-08-13 01:25:09 - Array
+2024-08-13 01:25:09 - HELLO
+2024-08-13 01:25:09 - GOT 1st ONE
+2024-08-13 01:25:09 - Tickets outputed
+2024-08-13 19:00:15 - Tour info: Array
+(
+    [id] => 1000020
+    [order_date] => 2024-08-13 18:59:54
+    [from_stop] => 120
+    [to_stop] => 87
+    [tour_date] => 2024-08-16
+    [passagers] => 2
+    [client_name] => Ольга
+    [client_surname] => Осипенко
+    [client_email] => osipenko.dmitriyy@gmail.com
+    [client_phone] => +38 (068) 418-5394
+)
+
+2024-08-13 19:00:15 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-08-16
+    [passagers] => 2
+)
+
+2024-08-13 19:00:15 - Tour info: Array
+(
+    [departure_time] => 20:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 07:45:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 2500
+)
+
+2024-08-13 19:00:15 - Tour info: АВ &#34;Центральний&#34;
+2024-08-13 19:00:15 - Tour info: Старосінна
+2024-08-13 19:00:15 - Tour info: Софія
+2024-08-13 19:00:15 - Tour info: Одеса
+2024-08-13 19:00:15 - Array
+2024-08-13 19:00:15 - HELLO
+2024-08-13 19:00:15 - GOT 1st ONE
+2024-08-13 19:00:15 - EHEHEHE
+2024-08-13 19:00:15 - Page added
+2024-08-13 19:00:15 - Ticket added
+2024-08-13 19:00:15 - Tickets outputed
+2024-08-13 22:36:59 - Tour info: Array
+(
+    [id] => 1000021
+    [order_date] => 2024-08-13 22:09:42
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-26
+    [passagers] => 1
+    [client_name] => Тетяна
+    [client_surname] => Моісєєва
+    [client_email] => olegmays0469@gmail.com
+    [client_phone] => +38 (050) 352-7346
+)
+
+2024-08-13 22:36:59 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-08-26
+    [passagers] => 1
+)
+
+2024-08-13 22:36:59 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-13 22:36:59 - Tour info: Старосінна
+2024-08-13 22:36:59 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-13 22:36:59 - Tour info: Одеса
+2024-08-13 22:36:59 - Tour info: Бухарест
+2024-08-13 22:36:59 - Array
+2024-08-13 22:36:59 - HELLO
+2024-08-13 22:36:59 - GOT 1st ONE
+2024-08-13 22:36:59 - Tickets outputed
+2024-08-13 23:03:25 - Tour info: Array
+(
+    [id] => 1000022
+    [order_date] => 2024-08-13 23:02:43
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-26
+    [passagers] => 1
+    [client_name] => Тетяна
+    [client_surname] => Моісєєва
+    [client_email] => olegmays0469@gmail.com
+    [client_phone] => +38 (050) 352-7346
+)
+
+2024-08-13 23:03:25 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-08-26
+    [passagers] => 1
+)
+
+2024-08-13 23:03:25 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-13 23:03:25 - Tour info: Старосінна
+2024-08-13 23:03:25 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-13 23:03:25 - Tour info: Одеса
+2024-08-13 23:03:25 - Tour info: Бухарест
+2024-08-13 23:03:25 - Array
+2024-08-13 23:03:25 - HELLO
+2024-08-13 23:03:25 - GOT 1st ONE
+2024-08-13 23:03:26 - Tickets outputed
+2024-08-17 11:18:54 - Order info: Array
+(
+    [id] => 1000026
+    [order_date] => 2024-08-17 11:18:26
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-18
+    [passagers] => 1
+    [client_name] => Олена
+    [client_surname] => Семчук
+    [client_email] => Zubova.helen.00@gmail.com
+    [client_phone] => +38 (097) 309-2259
+)
+
+2024-08-17 11:18:54 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-08-18
+    [passagers] => 1
+)
+
+2024-08-17 11:18:54 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-17 11:18:54 - Tour info: Старосінна
+2024-08-17 11:18:54 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-17 11:18:54 - Tour info: Одеса
+2024-08-17 11:18:54 - Tour info: Бухарест
+2024-08-17 11:18:54 - Array
+2024-08-17 11:18:54 - HELLO
+2024-08-17 11:18:54 - GOT 1st ONE
+2024-08-17 11:18:55 - EHEHEHE
+2024-08-17 11:18:55 - Page added
+2024-08-17 11:18:55 - Ticket added
+2024-08-17 11:18:55 - Tickets outputed
+2024-08-18 22:28:24 - Order info: Array
+(
+    [id] => 1000028
+    [order_date] => 2024-08-18 22:27:48
+    [from_stop] => 87
+    [to_stop] => 119
+    [tour_date] => 2024-08-27
+    [passagers] => 1
+    [client_name] => Вікторія
+    [client_surname] => Овчиннікова
+    [client_email] => Fotomkar@gmail.com
+    [client_phone] => +38 (095) 111-7997
+)
+
+2024-08-18 22:28:24 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-08-27
+    [passagers] => 1
+)
+
+2024-08-18 22:28:24 - Tour info: Array
+(
+    [departure_time] => 21:30:00
+    [departure_station] => Старосінна
+    [departure_city] => Київ
+    [arrival_time] => 21:30:00
+    [arrival_station] => АС &#34;Македонія&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 4000
+)
+
+2024-08-18 22:28:24 - Tour info: Старосінна
+2024-08-18 22:28:24 - Tour info: АС &#34;Македонія&#34;
+2024-08-18 22:28:24 - Tour info: Одеса
+2024-08-18 22:28:24 - Tour info: Салоніки
+2024-08-18 22:28:24 - Array
+2024-08-18 22:28:24 - HELLO
+2024-08-18 22:28:24 - GOT 1st ONE
+2024-08-18 22:28:24 - EHEHEHE
+2024-08-18 22:28:24 - Page added
+2024-08-18 22:28:24 - Ticket added
+2024-08-18 22:28:24 - Tickets outputed
+2024-08-19 16:44:43 - Order info: Array
+(
+    [id] => 1000029
+    [order_date] => 2024-08-19 16:43:51
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-25
+    [passagers] => 1
+    [client_name] => Татьяна
+    [client_surname] => Моісєєва
+    [client_email] => olegmays0469@gmail.com
+    [client_phone] => +38 (050) 352-7346
+)
+
+2024-08-19 16:44:43 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-08-25
+    [passagers] => 1
+)
+
+2024-08-19 16:44:43 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-19 16:44:43 - Tour info: Старосінна
+2024-08-19 16:44:43 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-19 16:44:43 - Tour info: Одеса
+2024-08-19 16:44:43 - Tour info: Бухарест
+2024-08-19 16:44:43 - Array
+2024-08-19 16:44:43 - HELLO
+2024-08-19 16:44:43 - GOT 1st ONE
+2024-08-19 16:44:43 - EHEHEHE
+2024-08-19 16:44:43 - Page added
+2024-08-19 16:44:43 - Ticket added
+2024-08-19 16:44:43 - Tickets outputed
+2024-08-20 13:58:24 - Order info: Array
+(
+    [id] => 1000032
+    [order_date] => 2024-08-20 13:53:59
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-08-22
+    [passagers] => 1
+    [client_name] => Alina
+    [client_surname] => Purchel
+    [client_email] => pa534587@gmail.com
+    [client_phone] => +38 (067) 135-7525
+)
+
+2024-08-20 13:58:24 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-08-22
+    [passagers] => 1
+)
+
+2024-08-20 13:58:24 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-20 13:58:24 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-20 13:58:24 - Tour info: Старосінна
+2024-08-20 13:58:24 - Tour info: Бухарест
+2024-08-20 13:58:24 - Tour info: Одеса
+2024-08-20 13:58:24 - Array
+2024-08-20 13:58:24 - HELLO
+2024-08-20 13:58:24 - GOT 1st ONE
+2024-08-20 13:58:24 - EHEHEHE
+2024-08-20 13:58:24 - Page added
+2024-08-20 13:58:25 - Ticket added
+2024-08-20 13:58:25 - Tickets outputed
+2024-08-22 10:47:22 - Order info: Array
+(
+    [id] => 1000034
+    [order_date] => 2024-08-22 10:43:42
+    [from_stop] => 118
+    [to_stop] => 87
+    [tour_date] => 2024-08-23
+    [passagers] => 2
+    [client_name] => Олександр
+    [client_surname] => Бондалетов
+    [client_email] => aaleksandr56@gmail.com
+    [client_phone] => +38 (050) 316-6676
+)
+
+2024-08-22 10:47:22 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-08-23
+    [passagers] => 2
+)
+
+2024-08-22 10:47:22 - Tour info: Array
+(
+    [departure_time] => 08:00:00
+    [departure_station] => АС &#34;Kifissos&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 07:45:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 5000
+)
+
+2024-08-22 10:47:22 - Tour info: АС &#34;Kifissos&#34;
+2024-08-22 10:47:22 - Tour info: Старосінна
+2024-08-22 10:47:22 - Tour info: Афіни
+2024-08-22 10:47:22 - Tour info: Одеса
+2024-08-22 10:47:22 - Array
+2024-08-22 10:47:22 - HELLO
+2024-08-22 10:47:22 - GOT 1st ONE
+2024-08-22 10:47:22 - EHEHEHE
+2024-08-22 10:47:22 - Page added
+2024-08-22 10:47:22 - Ticket added
+2024-08-22 10:47:22 - EHEHEHE
+2024-08-22 10:47:22 - Page added
+2024-08-22 10:47:22 - Ticket added
+2024-08-22 10:47:22 - Tickets outputed
+2024-08-22 12:28:20 - Order info: Array
+(
+    [id] => 1000035
+    [order_date] => 2024-08-22 12:27:36
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+    [client_name] => Віра
+    [client_surname] => Ремаренко
+    [client_email] => remarenko.ivan@gmail.com
+    [client_phone] => +38 (067) 500-6667
+)
+
+2024-08-22 12:28:20 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+)
+
+2024-08-22 12:28:20 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-08-22 12:28:20 - Tour info: АВ &#34;Центральний&#34;
+2024-08-22 12:28:20 - Tour info: АВ &#34;Центральний&#34;
+2024-08-22 12:28:20 - Tour info: Київ
+2024-08-22 12:28:20 - Tour info: Софія
+2024-08-22 12:28:20 - Array
+2024-08-22 12:28:20 - HELLO
+2024-08-22 12:28:20 - GOT 1st ONE
+2024-08-22 12:28:20 - EHEHEHE
+2024-08-22 12:28:20 - Page added
+2024-08-22 12:28:20 - Ticket added
+2024-08-22 12:28:20 - Tickets outputed
+2024-08-23 18:35:43 - Order info: Array
+(
+    [id] => 1000037
+    [order_date] => 2024-08-23 18:33:46
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-08-26
+    [passagers] => 1
+    [client_name] => Лилия
+    [client_surname] => Мишагли
+    [client_email] => 16mishagli@gmail.com
+    [client_phone] => +38 (093) 465-7166
+)
+
+2024-08-23 18:35:43 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-08-26
+    [passagers] => 1
+)
+
+2024-08-23 18:35:43 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-23 18:35:43 - Tour info: Старосінна
+2024-08-23 18:35:43 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-23 18:35:43 - Tour info: Одеса
+2024-08-23 18:35:43 - Tour info: Бухарест
+2024-08-23 18:35:43 - Array
+2024-08-23 18:35:43 - HELLO
+2024-08-23 18:35:43 - GOT 1st ONE
+2024-08-23 18:35:43 - EHEHEHE
+2024-08-23 18:35:43 - Page added
+2024-08-23 18:35:43 - Ticket added
+2024-08-23 18:35:43 - Tickets outputed
+2024-08-26 10:40:37 - Order info: Array
+(
+    [id] => 1000039
+    [order_date] => 2024-08-26 09:49:29
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-18
+    [passagers] => 1
+    [client_name] => Kateryna
+    [client_surname] => Kryvobokova
+    [client_email] => ka8spe7s@gmail.com
+    [client_phone] => +38 (068) 054-1439
+)
+
+2024-08-26 10:40:37 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-18
+    [passagers] => 1
+)
+
+2024-08-26 10:40:37 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-26 10:40:37 - Tour info: Старосінна
+2024-08-26 10:40:37 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-26 10:40:37 - Tour info: Одеса
+2024-08-26 10:40:37 - Tour info: Бухарест
+2024-08-26 10:40:37 - Array
+2024-08-26 10:40:37 - HELLO
+2024-08-26 10:40:37 - GOT 1st ONE
+2024-08-26 10:40:37 - EHEHEHE
+2024-08-26 10:40:37 - Page added
+2024-08-26 10:40:37 - Ticket added
+2024-08-26 10:40:37 - Tickets outputed
+2024-08-28 17:26:50 - Order info: Array
+(
+    [id] => 1000043
+    [order_date] => 2024-08-28 17:24:55
+    [from_stop] => 118
+    [to_stop] => 87
+    [tour_date] => 2024-09-09
+    [passagers] => 1
+    [client_name] => Олексій
+    [client_surname] => Яцуба
+    [client_email] => olexiy.yatsuba@gmail.com
+    [client_phone] => +38 (050) 320-8107
+)
+
+2024-08-28 17:26:50 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-09-09
+    [passagers] => 1
+)
+
+2024-08-28 17:26:50 - Tour info: Array
+(
+    [departure_time] => 08:00:00
+    [departure_station] => Остановка &#34;Эсперіа Тревел&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 07:45:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 5000
+)
+
+2024-08-28 17:26:50 - Tour info: Остановка &#34;Эсперіа Тревел&#34;
+2024-08-28 17:26:50 - Tour info: Старосінна
+2024-08-28 17:26:50 - Tour info: Афіни
+2024-08-28 17:26:50 - Tour info: Одеса
+2024-08-28 17:26:50 - Array
+2024-08-28 17:26:50 - HELLO
+2024-08-28 17:26:50 - GOT 1st ONE
+2024-08-28 17:26:50 - Tickets outputed
+2024-08-29 10:01:40 - Order info: Array
+(
+    [id] => 1000044
+    [order_date] => 2024-08-28 21:49:44
+    [from_stop] => 119
+    [to_stop] => 47
+    [tour_date] => 2024-08-30
+    [passagers] => 1
+    [client_name] => Катерина
+    [client_surname] => Петренко
+    [client_email] => Petrenkokatya044@gmail.com
+    [client_phone] => +38 (073) 401-1244
+)
+
+2024-08-29 10:01:40 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-08-30
+    [passagers] => 1
+)
+
+2024-08-29 10:01:40 - Tour info: Array
+(
+    [departure_time] => 15:00:00
+    [departure_station] => АС &#34;Македонія&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 13:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 4500
+)
+
+2024-08-29 10:01:40 - Tour info: АС &#34;Македонія&#34;
+2024-08-29 10:01:40 - Tour info: АВ &#34;Центральний&#34;
+2024-08-29 10:01:40 - Tour info: Салоніки
+2024-08-29 10:01:40 - Tour info: Київ
+2024-08-29 10:01:40 - Array
+2024-08-29 10:01:40 - GOT 1st ONE
+2024-08-29 10:01:40 - Tickets outputed
+2024-08-30 14:14:18 - Order info: Array
+(
+    [id] => 1000045
+    [order_date] => 2024-08-30 14:13:56
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-11
+    [passagers] => 1
+    [client_name] => Інна
+    [client_surname] => Дєрєнжи
+    [client_email] => innaderenzhy999@gmail.com
+    [client_phone] => +38 (097) 887-2662
+)
+
+2024-08-30 14:14:18 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-09-11
+    [passagers] => 1
+)
+
+2024-08-30 14:14:18 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-08-30 14:14:18 - Tour info: Старосінна
+2024-08-30 14:14:18 - Tour info: &#34;Готель Континенталь&#34;
+2024-08-30 14:14:18 - Tour info: Одеса
+2024-08-30 14:14:18 - Tour info: Бухарест
+2024-08-30 14:14:18 - Array
+2024-08-30 14:14:18 - GOT 1st ONE
+2024-08-30 14:14:18 - Tickets outputed
+2024-08-30 14:14:18 - Tickets sent toinnaderenzhy999@gmail.com
+2024-08-30 14:14:18 - Tickets sent tomax210183@ukr.net
+2024-09-02 16:31:53 - Order info: Array
+(
+    [id] => 1000048
+    [order_date] => 2024-09-02 16:31:29
+    [from_stop] => 118
+    [to_stop] => 47
+    [tour_date] => 2024-10-11
+    [passagers] => 1
+    [client_name] => OLENA
+    [client_surname] => KRUHLIAK
+    [client_email] => kruhliakolena1974@gmail.com
+    [client_phone] => +38 (050) 733-3226
+)
+
+2024-09-02 16:31:53 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-10-11
+    [passagers] => 1
+)
+
+2024-09-02 16:31:53 - Tour info: Array
+(
+    [departure_time] => 08:00:00
+    [departure_station] => Остановка &#34;Эсперіа Тревел&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 13:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 5500
+)
+
+2024-09-02 16:31:53 - Tour info: Остановка &#34;Эсперіа Тревел&#34;
+2024-09-02 16:31:53 - Tour info: АВ &#34;Центральний&#34;
+2024-09-02 16:31:53 - Tour info: Афіни
+2024-09-02 16:31:53 - Tour info: Київ
+2024-09-02 16:31:53 - Array
+2024-09-02 16:31:53 - GOT 1st ONE
+2024-09-02 16:31:54 - Tickets outputed
+2024-09-02 16:31:54 - Tickets sent tokruhliakolena1974@gmail.com
+2024-09-02 16:31:54 - Tickets sent tomax210183@ukr.net
+2024-09-03 15:13:21 - Order info: Array
+(
+    [id] => 1000049
+    [order_date] => 2024-09-03 15:11:08
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-11
+    [passagers] => 2
+    [client_name] => Сергій
+    [client_surname] => Тодоров
+    [client_email] => list4todor@gmail.com
+    [client_phone] => +38 (095) 740-6931
+)
+
+2024-09-03 15:13:21 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-11
+    [passagers] => 2
+)
+
+2024-09-03 15:13:21 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-03 15:13:21 - Tour info: Старосінна
+2024-09-03 15:13:21 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-03 15:13:21 - Tour info: Одеса
+2024-09-03 15:13:21 - Tour info: Бухарест
+2024-09-03 15:13:21 - Array
+2024-09-03 15:13:21 - Ticket added
+2024-09-03 15:13:21 - Ticket added
+2024-09-03 15:13:21 - Tickets outputed
+2024-09-03 15:13:21 - Tickets sent tolist4todor@gmail.com
+2024-09-03 15:13:21 - Tickets sent tomax210183@ukr.net
+2024-09-03 18:03:49 - Order info: Array
+(
+    [id] => 1000050
+    [order_date] => 2024-09-03 18:01:59
+    [from_stop] => 47
+    [to_stop] => 104
+    [tour_date] => 2024-09-06
+    [passagers] => 2
+    [client_name] => Наталя
+    [client_surname] => Резниченко
+    [client_email] => lucky1980m@gmail.com
+    [client_phone] => +38 (050) 248-7940
+)
+
+2024-09-03 18:03:49 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-06
+    [passagers] => 2
+)
+
+2024-09-03 18:03:49 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 10:00:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 2100
+)
+
+2024-09-03 18:03:49 - Tour info: АВ &#34;Центральний&#34;
+2024-09-03 18:03:49 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-03 18:03:49 - Tour info: Київ
+2024-09-03 18:03:49 - Tour info: Бухарест
+2024-09-03 18:03:49 - Array
+2024-09-03 18:03:50 - Ticket added
+2024-09-03 18:03:50 - Ticket added
+2024-09-03 18:03:50 - Tickets outputed
+2024-09-03 18:03:50 - Tickets sent tolucky1980m@gmail.com
+2024-09-03 18:03:50 - Tickets sent tomax210183@ukr.net
+2024-09-05 11:09:23 - Order info: Array
+(
+    [id] => 1000053
+    [order_date] => 2024-09-05 11:09:06
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-10
+    [passagers] => 1
+    [client_name] => Вікторія
+    [client_surname] => Гніздилова
+    [client_email] => vikagodzilla93@gmail.com
+    [client_phone] => +38 (066) 097-5348
+)
+
+2024-09-05 11:09:23 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-09-10
+    [passagers] => 1
+)
+
+2024-09-05 11:09:23 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-05 11:09:23 - Tour info: Старосінна
+2024-09-05 11:09:23 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-05 11:09:23 - Tour info: Одеса
+2024-09-05 11:09:23 - Tour info: Бухарест
+2024-09-05 11:09:23 - Array
+2024-09-05 11:09:23 - GOT 1st ONE
+2024-09-05 11:09:23 - Tickets outputed
+2024-09-05 11:09:23 - Tickets sent tovikagodzilla93@gmail.com
+2024-09-05 11:09:24 - Tickets sent tomax210183@ukr.net
+2024-09-06 10:45:05 - Order info: Array
+(
+    [id] => 1000056
+    [order_date] => 2024-09-06 10:33:20
+    [from_stop] => 47
+    [to_stop] => 104
+    [tour_date] => 2024-10-01
+    [passagers] => 2
+    [client_name] => Володимир
+    [client_surname] => Шор
+    [client_email] => egoist8012@gmail.com
+    [client_phone] => +38 (067) 748-6303
+)
+
+2024-09-06 10:45:05 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-10-01
+    [passagers] => 2
+)
+
+2024-09-06 10:45:05 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 10:00:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 2100
+)
+
+2024-09-06 10:45:05 - Tour info: АВ &#34;Центральний&#34;
+2024-09-06 10:45:05 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-06 10:45:05 - Tour info: Київ
+2024-09-06 10:45:05 - Tour info: Бухарест
+2024-09-06 10:45:05 - Array
+2024-09-06 10:45:05 - Ticket added
+2024-09-06 10:45:05 - Ticket added
+2024-09-06 10:45:05 - Tickets outputed
+2024-09-06 10:45:05 - Tickets sent toegoist8012@gmail.com
+2024-09-06 10:45:05 - Tickets sent tomax210183@ukr.net
+2024-09-06 10:48:24 - Order info: Array
+(
+    [id] => 1000056
+    [order_date] => 2024-09-06 10:33:20
+    [from_stop] => 47
+    [to_stop] => 104
+    [tour_date] => 2024-10-01
+    [passagers] => 2
+    [client_name] => Володимир
+    [client_surname] => Шор
+    [client_email] => egoist8012@gmail.com
+    [client_phone] => +38 (067) 748-6303
+)
+
+2024-09-06 10:48:24 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-10-01
+    [passagers] => 2
+)
+
+2024-09-06 10:48:24 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 10:00:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 2100
+)
+
+2024-09-06 10:48:24 - Tour info: АВ &#34;Центральний&#34;
+2024-09-06 10:48:24 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-06 10:48:24 - Tour info: Київ
+2024-09-06 10:48:24 - Tour info: Бухарест
+2024-09-06 10:48:24 - Array
+2024-09-06 10:48:24 - Ticket added
+2024-09-06 10:48:24 - Ticket added
+2024-09-06 10:48:24 - Tickets outputed
+2024-09-06 10:48:24 - Tickets sent toegoist8012@gmail.com
+2024-09-06 10:48:24 - Tickets sent tomax210183@ukr.net
+2024-09-08 21:47:01 - Order info: Array
+(
+    [id] => 1000059
+    [order_date] => 2024-09-08 21:44:09
+    [from_stop] => 87
+    [to_stop] => 86
+    [tour_date] => 2024-09-09
+    [passagers] => 1
+    [client_name] => Ольга
+    [client_surname] => Гузенко
+    [client_email] => 1FARMHOME@GMAIL.COM
+    [client_phone] => +38 (095) 426-9949
+)
+
+2024-09-08 21:47:01 - Tour info: Array
+(
+    [tour_id] => 44
+    [tour_date] => 2024-09-09
+    [passagers] => 1
+)
+
+2024-09-08 21:47:01 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Кишинів
+    [arrival_time] => 15:30:00
+    [arrival_station] => АВ
+    [arrival_city] => Дніпро
+    [bus] => Автобус на 49 місць
+    [price] => 950
+)
+
+2024-09-08 21:47:01 - Tour info: Старосінна
+2024-09-08 21:47:01 - Tour info: АВ
+2024-09-08 21:47:01 - Tour info: Одеса
+2024-09-08 21:47:01 - Tour info: Дніпро
+2024-09-08 21:47:01 - Array
+2024-09-08 21:47:01 - GOT 1st ONE
+2024-09-08 21:47:01 - Tickets outputed
+2024-09-08 21:47:01 - Tickets sent to1FARMHOME@GMAIL.COM
+2024-09-08 21:47:02 - Tickets sent tomax210183@ukr.net
+2024-09-10 13:22:15 - Order info: Array
+(
+    [id] => 1000060
+    [order_date] => 2024-09-10 13:22:01
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-16
+    [passagers] => 1
+    [client_name] => Елена
+    [client_surname] => Жовтяк
+    [client_email] => mironova88elena69@gmail.com
+    [client_phone] => +38 (096) 187-9355
+)
+
+2024-09-10 13:22:15 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-16
+    [passagers] => 1
+)
+
+2024-09-10 13:22:15 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-10 13:22:15 - Tour info: Старосінна
+2024-09-10 13:22:15 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-10 13:22:15 - Tour info: Одеса
+2024-09-10 13:22:15 - Tour info: Бухарест
+2024-09-10 13:22:15 - Array
+2024-09-10 13:22:15 - GOT 1st ONE
+2024-09-10 13:22:15 - Tickets outputed
+2024-09-10 13:22:15 - Tickets sent tomironova88elena69@gmail.com
+2024-09-10 13:22:15 - Tickets sent tomax210183@ukr.net
+2024-09-10 13:33:00 - Order info: Array
+(
+    [id] => 1000061
+    [order_date] => 2024-09-10 13:32:42
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-16
+    [passagers] => 1
+    [client_name] => Рина
+    [client_surname] => Ларина
+    [client_email] => rinakeit5@gmail.com
+    [client_phone] => +38 (050) 551-9653
+)
+
+2024-09-10 13:33:00 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-16
+    [passagers] => 1
+)
+
+2024-09-10 13:33:00 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-10 13:33:00 - Tour info: Старосінна
+2024-09-10 13:33:00 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-10 13:33:00 - Tour info: Одеса
+2024-09-10 13:33:00 - Tour info: Бухарест
+2024-09-10 13:33:01 - Array
+2024-09-10 13:33:01 - GOT 1st ONE
+2024-09-10 13:33:01 - Tickets outputed
+2024-09-10 13:33:01 - Tickets sent torinakeit5@gmail.com
+2024-09-10 13:33:01 - Tickets sent tomax210183@ukr.net
+2024-09-10 15:59:00 - Order info: Array
+(
+    [id] => 1000062
+    [order_date] => 2024-09-10 15:58:47
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-13
+    [passagers] => 1
+    [client_name] => Ірина
+    [client_surname] => Нерук
+    [client_email] => Neruk.2020@gmail.com
+    [client_phone] => +38 (093) 492-0063
+)
+
+2024-09-10 15:59:00 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-09-13
+    [passagers] => 1
+)
+
+2024-09-10 15:59:00 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-10 15:59:00 - Tour info: Старосінна
+2024-09-10 15:59:00 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-10 15:59:00 - Tour info: Одеса
+2024-09-10 15:59:00 - Tour info: Бухарест
+2024-09-10 15:59:00 - Array
+2024-09-10 15:59:00 - GOT 1st ONE
+2024-09-10 15:59:00 - Tickets outputed
+2024-09-10 15:59:00 - Tickets sent toNeruk.2020@gmail.com
+2024-09-10 15:59:00 - Tickets sent tomax210183@ukr.net
+2024-09-12 11:54:24 - Order info: Array
+(
+    [id] => 1000066
+    [order_date] => 2024-09-12 11:51:49
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+    [client_name] => Зоя
+    [client_surname] => Шепель
+    [client_email] => shepel74@gmail.com
+    [client_phone] => +38 (067) 466-2426
+)
+
+2024-09-12 11:54:24 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+)
+
+2024-09-12 11:54:24 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-09-12 11:54:24 - Tour info: АВ &#34;Центральний&#34;
+2024-09-12 11:54:24 - Tour info: АВ &#34;Центральний&#34;
+2024-09-12 11:54:24 - Tour info: Київ
+2024-09-12 11:54:24 - Tour info: Софія
+2024-09-12 11:54:24 - Array
+2024-09-12 11:54:24 - GOT 1st ONE
+2024-09-12 11:54:25 - Tickets outputed
+2024-09-12 11:54:25 - Tickets sent toshepel74@gmail.com
+2024-09-12 11:54:25 - Tickets sent tomax210183@ukr.net
+2024-09-12 13:24:48 - Order info: Array
+(
+    [id] => 1000067
+    [order_date] => 2024-09-12 13:24:07
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-16
+    [passagers] => 1
+    [client_name] => Тетяна
+    [client_surname] => Челібійська
+    [client_email] => tanjusha2101@gmail.com
+    [client_phone] => +38 (066) 460-0664
+)
+
+2024-09-12 13:24:48 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-16
+    [passagers] => 1
+)
+
+2024-09-12 13:24:48 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-12 13:24:48 - Tour info: Старосінна
+2024-09-12 13:24:48 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-12 13:24:48 - Tour info: Одеса
+2024-09-12 13:24:48 - Tour info: Бухарест
+2024-09-12 13:24:48 - Array
+2024-09-12 13:24:48 - GOT 1st ONE
+2024-09-12 13:24:48 - Tickets outputed
+2024-09-12 13:24:48 - Tickets sent totanjusha2101@gmail.com
+2024-09-12 13:24:48 - Tickets sent tomax210183@ukr.net
+2024-09-12 13:47:45 - Order info: Array
+(
+    [id] => 1000068
+    [order_date] => 2024-09-12 13:42:25
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-22
+    [passagers] => 3
+    [client_name] => Виктория
+    [client_surname] => Соснина
+    [client_email] => meri1@ukr.net
+    [client_phone] => +38 (050) 490-3392
+)
+
+2024-09-12 13:47:45 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-09-22
+    [passagers] => 3
+)
+
+2024-09-12 13:47:45 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-12 13:47:45 - Tour info: Старосінна
+2024-09-12 13:47:45 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-12 13:47:45 - Tour info: Одеса
+2024-09-12 13:47:45 - Tour info: Бухарест
+2024-09-12 13:47:45 - Array
+2024-09-12 13:47:45 - Ticket added
+2024-09-12 13:47:45 - Ticket added
+2024-09-12 13:47:45 - Ticket added
+2024-09-12 13:47:45 - Tickets outputed
+2024-09-12 13:47:45 - Tickets sent tomeri1@ukr.net
+2024-09-12 13:47:46 - Tickets sent tomax210183@ukr.net
+2024-09-13 15:52:11 - Order info: Array
+(
+    [id] => 1000069
+    [order_date] => 2024-09-13 15:50:46
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+    [client_name] => Марина
+    [client_surname] => Нестерова
+    [client_email] => mary.g.girl78@gmail.com
+    [client_phone] => +38 (099) 067-3579
+)
+
+2024-09-13 15:52:11 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+)
+
+2024-09-13 15:52:11 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-09-13 15:52:11 - Tour info: АВ &#34;Центральний&#34;
+2024-09-13 15:52:11 - Tour info: АВ &#34;Центральний&#34;
+2024-09-13 15:52:11 - Tour info: Київ
+2024-09-13 15:52:11 - Tour info: Софія
+2024-09-13 15:52:11 - Array
+2024-09-13 15:52:11 - GOT 1st ONE
+2024-09-13 15:52:11 - Tickets outputed
+2024-09-13 15:52:12 - Tickets sent tomary.g.girl78@gmail.com
+2024-09-13 15:52:12 - Tickets sent tomax210183@ukr.net
+2024-09-15 07:39:09 - Order info: Array
+(
+    [id] => 1000070
+    [order_date] => 2024-09-15 07:37:59
+    [from_stop] => 119
+    [to_stop] => 87
+    [tour_date] => 2024-10-04
+    [passagers] => 1
+    [client_name] => Инга
+    [client_surname] => Бурк
+    [client_email] => burkovskaya_oz@yahoo.com
+    [client_phone] => +38 (050) 765-6280
+)
+
+2024-09-15 07:39:09 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-10-04
+    [passagers] => 1
+)
+
+2024-09-15 07:39:09 - Tour info: Array
+(
+    [departure_time] => 15:00:00
+    [departure_station] => АС &#34;Македонія&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 07:45:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 4000
+)
+
+2024-09-15 07:39:09 - Tour info: АС &#34;Македонія&#34;
+2024-09-15 07:39:09 - Tour info: Старосінна
+2024-09-15 07:39:09 - Tour info: Салоніки
+2024-09-15 07:39:09 - Tour info: Одеса
+2024-09-15 07:39:09 - Array
+2024-09-15 07:39:09 - GOT 1st ONE
+2024-09-15 07:39:09 - Tickets outputed
+2024-09-15 07:39:10 - Tickets sent toburkovskaya_oz@yahoo.com
+2024-09-15 07:39:10 - Tickets sent tomax210183@ukr.net
+2024-09-15 11:46:20 - Order info: Array
+(
+    [id] => 1000071
+    [order_date] => 2024-09-15 11:43:57
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-09-17
+    [passagers] => 1
+    [client_name] => Юрій
+    [client_surname] => Козловський
+    [client_email] => yuriyconst@gmail.com
+    [client_phone] => +38 (067) 287-7679
+)
+
+2024-09-15 11:46:20 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-17
+    [passagers] => 1
+)
+
+2024-09-15 11:46:20 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-09-15 11:46:20 - Tour info: АВ &#34;Центральний&#34;
+2024-09-15 11:46:20 - Tour info: АВ &#34;Центральний&#34;
+2024-09-15 11:46:20 - Tour info: Київ
+2024-09-15 11:46:20 - Tour info: Софія
+2024-09-15 11:46:20 - Array
+2024-09-15 11:46:20 - GOT 1st ONE
+2024-09-15 11:46:20 - Tickets outputed
+2024-09-15 11:46:20 - Tickets sent toyuriyconst@gmail.com
+2024-09-15 11:46:20 - Tickets sent tomax210183@ukr.net
+2024-09-15 18:51:05 - Order info: Array
+(
+    [id] => 1000072
+    [order_date] => 2024-09-15 18:50:04
+    [from_stop] => 47
+    [to_stop] => 104
+    [tour_date] => 2024-10-01
+    [passagers] => 1
+    [client_name] => Дар’я
+    [client_surname] => Харахаш
+    [client_email] => dasha7786@ukr.net
+    [client_phone] => +38 (097) 058-1012
+)
+
+2024-09-15 18:51:05 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-10-01
+    [passagers] => 1
+)
+
+2024-09-15 18:51:05 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 10:00:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 2100
+)
+
+2024-09-15 18:51:05 - Tour info: АВ &#34;Центральний&#34;
+2024-09-15 18:51:05 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-15 18:51:05 - Tour info: Київ
+2024-09-15 18:51:05 - Tour info: Бухарест
+2024-09-15 18:51:05 - Array
+2024-09-15 18:51:05 - GOT 1st ONE
+2024-09-15 18:51:05 - Tickets outputed
+2024-09-15 18:51:05 - Tickets sent todasha7786@ukr.net
+2024-09-15 18:51:05 - Tickets sent tomax210183@ukr.net
+2024-09-17 12:10:14 - Order info: Array
+(
+    [id] => 1000073
+    [order_date] => 2024-09-17 12:09:43
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-28
+    [passagers] => 2
+    [client_name] => Лариса
+    [client_surname] => Бобровник
+    [client_email] => suntour.kiev@gmail.com
+    [client_phone] => +38 (067) 728-0295
+)
+
+2024-09-17 12:10:14 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-28
+    [passagers] => 2
+)
+
+2024-09-17 12:10:14 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-17 12:10:14 - Tour info: Старосінна
+2024-09-17 12:10:14 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-17 12:10:14 - Tour info: Одеса
+2024-09-17 12:10:14 - Tour info: Бухарест
+2024-09-17 12:10:14 - Array
+2024-09-17 12:10:14 - Ticket added
+2024-09-17 12:10:14 - Ticket added
+2024-09-17 12:10:14 - Tickets outputed
+2024-09-17 12:10:14 - Tickets sent tosuntour.kiev@gmail.com
+2024-09-17 12:10:14 - Tickets sent tomax210183@ukr.net
+2024-09-19 19:23:32 - Order info: Array
+(
+    [id] => 1000077
+    [order_date] => 2024-09-19 19:23:19
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+    [client_name] => Дар‘я
+    [client_surname] => Горбунова
+    [client_email] => d.horbunova@gmail.com
+    [client_phone] => +38 (050) 269-4435
+)
+
+2024-09-19 19:23:32 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-20
+    [passagers] => 1
+)
+
+2024-09-19 19:23:32 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-09-19 19:23:32 - Tour info: АВ &#34;Центральний&#34;
+2024-09-19 19:23:32 - Tour info: АВ &#34;Центральний&#34;
+2024-09-19 19:23:32 - Tour info: Київ
+2024-09-19 19:23:32 - Tour info: Софія
+2024-09-19 19:23:32 - Array
+2024-09-19 19:23:32 - GOT 1st ONE
+2024-09-19 19:23:32 - Tickets outputed
+2024-09-19 19:23:32 - Tickets sent tod.horbunova@gmail.com
+2024-09-19 19:23:32 - Tickets sent tomax210183@ukr.net
+2024-09-20 12:38:57 - Order info: Array
+(
+    [id] => 1000078
+    [order_date] => 2024-09-20 12:37:55
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-09-26
+    [passagers] => 3
+    [client_name] => Виктория
+    [client_surname] => Соснина
+    [client_email] => meri1@ukr.net
+    [client_phone] => +38 (050) 490-3392
+)
+
+2024-09-20 12:38:57 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-09-26
+    [passagers] => 3
+)
+
+2024-09-20 12:38:57 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-20 12:38:57 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-20 12:38:57 - Tour info: Старосінна
+2024-09-20 12:38:57 - Tour info: Бухарест
+2024-09-20 12:38:57 - Tour info: Одеса
+2024-09-20 12:38:57 - Array
+2024-09-20 12:38:57 - Ticket added
+2024-09-20 12:38:57 - Ticket added
+2024-09-20 12:38:57 - Ticket added
+2024-09-20 12:38:57 - Tickets outputed
+2024-09-20 12:38:57 - Tickets sent tomeri1@ukr.net
+2024-09-20 12:38:57 - Tickets sent tomax210183@ukr.net
+2024-09-20 15:42:43 - Order info: Array
+(
+    [id] => 1000080
+    [order_date] => 2024-09-20 15:42:23
+    [from_stop] => 120
+    [to_stop] => 47
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+    [client_name] => Дар‘я
+    [client_surname] => Горбунова
+    [client_email] => d.horbunova@gmail.com
+    [client_phone] => +38 (050) 269-4435
+)
+
+2024-09-20 15:42:43 - Tour info: Array
+(
+    [tour_id] => 39
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+)
+
+2024-09-20 15:42:43 - Tour info: Array
+(
+    [departure_time] => 19:45:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Афіни
+    [arrival_time] => 13:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-09-20 15:42:43 - Tour info: АВ &#34;Центральний&#34;
+2024-09-20 15:42:43 - Tour info: АВ &#34;Центральний&#34;
+2024-09-20 15:42:43 - Tour info: Софія
+2024-09-20 15:42:43 - Tour info: Київ
+2024-09-20 15:42:43 - Array
+2024-09-20 15:42:43 - GOT 1st ONE
+2024-09-20 15:42:43 - Tickets outputed
+2024-09-20 15:42:43 - Tickets sent tod.horbunova@gmail.com
+2024-09-20 15:42:44 - Tickets sent tomax210183@ukr.net
+2024-09-21 13:33:48 - Order info: Array
+(
+    [id] => 1000081
+    [order_date] => 2024-09-21 13:33:32
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-24
+    [passagers] => 1
+    [client_name] => Людмила
+    [client_surname] => Терпан
+    [client_email] => terpanlydmila@gmail.com
+    [client_phone] => +38 (098) 570-0993
+)
+
+2024-09-21 13:33:48 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-24
+    [passagers] => 1
+)
+
+2024-09-21 13:33:48 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-21 13:33:48 - Tour info: Старосінна
+2024-09-21 13:33:48 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-21 13:33:48 - Tour info: Одеса
+2024-09-21 13:33:48 - Tour info: Бухарест
+2024-09-21 13:33:48 - Array
+2024-09-21 13:33:48 - GOT 1st ONE
+2024-09-21 13:33:48 - Tickets outputed
+2024-09-21 13:33:48 - Tickets sent toterpanlydmila@gmail.com
+2024-09-21 13:33:48 - Tickets sent tomax210183@ukr.net
+2024-09-21 15:57:19 - Order info: Array
+(
+    [id] => 1000082
+    [order_date] => 2024-09-21 15:56:52
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+    [client_name] => Мария
+    [client_surname] => Бруквач
+    [client_email] => fedor.kondur@gmail.com
+    [client_phone] => +38 (067) 900-7121
+)
+
+2024-09-21 15:57:19 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-09-23
+    [passagers] => 1
+)
+
+2024-09-21 15:57:19 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-21 15:57:19 - Tour info: Старосінна
+2024-09-21 15:57:19 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-21 15:57:19 - Tour info: Одеса
+2024-09-21 15:57:19 - Tour info: Бухарест
+2024-09-21 15:57:19 - Array
+2024-09-21 15:57:19 - GOT 1st ONE
+2024-09-21 15:57:19 - Tickets outputed
+2024-09-21 15:57:19 - Tickets sent tofedor.kondur@gmail.com
+2024-09-21 15:57:19 - Tickets sent tomax210183@ukr.net
+2024-09-21 16:41:30 - Order info: Array
+(
+    [id] => 1000083
+    [order_date] => 2024-09-21 16:40:33
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-09-24
+    [passagers] => 1
+    [client_name] => Петро
+    [client_surname] => Зарицький
+    [client_email] => petro.zarytskyi@gmail.com
+    [client_phone] => +38 (096) 380-3114
+)
+
+2024-09-21 16:41:30 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-09-24
+    [passagers] => 1
+)
+
+2024-09-21 16:41:30 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-09-21 16:41:30 - Tour info: АВ &#34;Центральний&#34;
+2024-09-21 16:41:30 - Tour info: АВ &#34;Центральний&#34;
+2024-09-21 16:41:30 - Tour info: Київ
+2024-09-21 16:41:30 - Tour info: Софія
+2024-09-21 16:41:30 - Array
+2024-09-21 16:41:30 - GOT 1st ONE
+2024-09-21 16:41:30 - Tickets outputed
+2024-09-21 16:41:31 - Tickets sent topetro.zarytskyi@gmail.com
+2024-09-21 16:41:31 - Tickets sent tomax210183@ukr.net
+2024-09-25 12:54:53 - Order info: Array
+(
+    [id] => 1000084
+    [order_date] => 2024-09-25 12:54:15
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-09-28
+    [passagers] => 1
+    [client_name] => Екатерина
+    [client_surname] => Виноградова
+    [client_email] => vinograd00804@gmail.com
+    [client_phone] => +38 (067) 488-5632
+)
+
+2024-09-25 12:54:53 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-09-28
+    [passagers] => 1
+)
+
+2024-09-25 12:54:53 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-25 12:54:53 - Tour info: Старосінна
+2024-09-25 12:54:53 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-25 12:54:53 - Tour info: Одеса
+2024-09-25 12:54:53 - Tour info: Бухарест
+2024-09-25 12:54:53 - Array
+2024-09-25 12:54:53 - GOT 1st ONE
+2024-09-25 12:54:54 - Tickets outputed
+2024-09-25 12:54:54 - Tickets sent tovinograd00804@gmail.com
+2024-09-25 12:54:54 - Tickets sent tomax210183@ukr.net
+2024-09-27 17:48:25 - Order info: Array
+(
+    [id] => 1000086
+    [order_date] => 2024-09-27 17:46:09
+    [from_stop] => 86
+    [to_stop] => 49
+    [tour_date] => 2024-10-05
+    [passagers] => 1
+    [client_name] => Ірина
+    [client_surname] => Горб
+    [client_email] => i.gorb.info@gmail.com
+    [client_phone] => +38 (050) 710-8091
+)
+
+2024-09-27 17:48:25 - Tour info: Array
+(
+    [tour_id] => 43
+    [tour_date] => 2024-10-05
+    [passagers] => 1
+)
+
+2024-09-27 17:48:25 - Tour info: Array
+(
+    [departure_time] => 11:45:00
+    [departure_station] => АВ
+    [departure_city] => Дніпро
+    [arrival_time] => 02:30:00
+    [arrival_station] => АВ &#34;Північний&#34;
+    [arrival_city] => Кишинів
+    [bus] => Автобус на 49 місць
+    [price] => 2200
+)
+
+2024-09-27 17:48:25 - Tour info: АВ
+2024-09-27 17:48:25 - Tour info: АВ &#34;Північний&#34;
+2024-09-27 17:48:25 - Tour info: Дніпро
+2024-09-27 17:48:25 - Tour info: Кишинів
+2024-09-27 17:48:25 - Array
+2024-09-27 17:48:25 - GOT 1st ONE
+2024-09-27 17:48:25 - Tickets outputed
+2024-09-27 17:48:25 - Tickets sent toi.gorb.info@gmail.com
+2024-09-27 17:48:25 - Tickets sent tomax210183@ukr.net
+2024-09-28 15:39:13 - Order info: Array
+(
+    [id] => 1000088
+    [order_date] => 2024-09-28 15:38:54
+    [from_stop] => 106
+    [to_stop] => 104
+    [tour_date] => 2024-10-13
+    [passagers] => 1
+    [client_name] => Ольга
+    [client_surname] => Топтигіна
+    [client_email] => vikesha97@gmail.com
+    [client_phone] => +38 (063) 976-8929
+)
+
+2024-09-28 15:39:13 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-13
+    [passagers] => 1
+)
+
+2024-09-28 15:39:13 - Tour info: Array
+(
+    [departure_time] => 21:20:00
+    [departure_station] => Ресторан &#34;Тиха Поляна&#34;
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-28 15:39:13 - Tour info: Ресторан &#34;Тиха Поляна&#34;
+2024-09-28 15:39:13 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-28 15:39:13 - Tour info: Татарбунари
+2024-09-28 15:39:13 - Tour info: Бухарест
+2024-09-28 15:39:13 - Array
+2024-09-28 15:39:13 - GOT 1st ONE
+2024-09-28 15:39:13 - Tickets outputed
+2024-09-28 15:39:13 - Tickets sent tovikesha97@gmail.com
+2024-09-28 15:39:14 - Tickets sent tomax210183@ukr.net
+2024-09-29 08:45:11 - Order info: Array
+(
+    [id] => 1000090
+    [order_date] => 2024-09-29 08:43:43
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-01
+    [passagers] => 2
+    [client_name] => Татьяна
+    [client_surname] => Колос
+    [client_email] => tanyakolos989@gmail.com
+    [client_phone] => +38 (050) 782-5684
+)
+
+2024-09-29 08:45:11 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-01
+    [passagers] => 2
+)
+
+2024-09-29 08:45:11 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-29 08:45:11 - Tour info: Старосінна
+2024-09-29 08:45:11 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-29 08:45:11 - Tour info: Одеса
+2024-09-29 08:45:11 - Tour info: Бухарест
+2024-09-29 08:45:11 - Array
+2024-09-29 08:45:11 - Пассажир 1: Татьяна Колос<br>
+2024-09-29 08:45:12 - Ticket added for passenger Татьяна
+2024-09-29 08:45:12 - Пассажир 2: Виктория Колос<br>
+2024-09-29 08:45:12 - Ticket added for passenger Виктория
+2024-09-29 08:45:12 - Tickets outputed
+2024-09-29 08:45:12 - Tickets sent totanyakolos989@gmail.com
+2024-09-29 08:45:12 - Tickets sent tomax210183@ukr.net
+2024-09-30 18:44:57 - Order info: Array
+(
+    [id] => 1000094
+    [order_date] => 2024-09-30 18:44:29
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-01
+    [passagers] => 1
+    [client_name] => Олександра
+    [client_surname] => Пружина
+    [client_email] => elrehar@gmail.com
+    [client_phone] => +38 (096) 254-5069
+)
+
+2024-09-30 18:44:57 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-01
+    [passagers] => 1
+)
+
+2024-09-30 18:44:57 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-09-30 18:44:57 - Tour info: Старосінна
+2024-09-30 18:44:57 - Tour info: &#34;Готель Континенталь&#34;
+2024-09-30 18:44:57 - Tour info: Одеса
+2024-09-30 18:44:57 - Tour info: Бухарест
+2024-09-30 18:44:57 - Array
+2024-09-30 18:44:57 - GOT 1st ONE
+2024-09-30 18:44:57 - Tickets outputed
+2024-09-30 18:44:58 - Tickets sent toelrehar@gmail.com
+2024-09-30 18:44:58 - Tickets sent tomax210183@ukr.net
+2024-10-01 00:28:15 - Order info: Array
+(
+    [id] => 1000095
+    [order_date] => 2024-10-01 00:25:28
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-10-06
+    [passagers] => 2
+    [client_name] => Тетяна
+    [client_surname] => Колос
+    [client_email] => tanyakolos989@gmail.com
+    [client_phone] => +38 (050) 782-5684
+)
+
+2024-10-01 00:28:15 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-10-06
+    [passagers] => 2
+)
+
+2024-10-01 00:28:15 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-01 00:28:15 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-01 00:28:15 - Tour info: Старосінна
+2024-10-01 00:28:15 - Tour info: Бухарест
+2024-10-01 00:28:15 - Tour info: Одеса
+2024-10-01 00:28:15 - Array
+2024-10-01 00:28:15 - Пассажир 1: Тетяна Колос<br>
+2024-10-01 00:28:15 - Ticket added for passenger Тетяна
+2024-10-01 00:28:15 - Пассажир 2: Вікторія Колос<br>
+2024-10-01 00:28:15 - Ticket added for passenger Вікторія
+2024-10-01 00:28:15 - Tickets outputed
+2024-10-01 00:28:15 - Tickets sent totanyakolos989@gmail.com
+2024-10-01 00:28:15 - Tickets sent tomax210183@ukr.net
+2024-10-01 14:37:20 - Order info: Array
+(
+    [id] => 1000098
+    [order_date] => 2024-10-01 14:36:19
+    [from_stop] => 87
+    [to_stop] => 118
+    [tour_date] => 2024-10-08
+    [passagers] => 2
+    [client_name] => Олег
+    [client_surname] => Чірко
+    [client_email] => basilliyc@gmail.com
+    [client_phone] => +38 (067) 556-9179
+)
+
+2024-10-01 14:37:20 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-10-08
+    [passagers] => 2
+)
+
+2024-10-01 14:37:20 - Tour info: Array
+(
+    [departure_time] => 21:30:00
+    [departure_station] => Старосінна
+    [departure_city] => Київ
+    [arrival_time] => 06:00:00
+    [arrival_station] => Остановка &#34;Эсперіа Тревел&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 5000
+)
+
+2024-10-01 14:37:20 - Tour info: Старосінна
+2024-10-01 14:37:20 - Tour info: Остановка &#34;Эсперіа Тревел&#34;
+2024-10-01 14:37:20 - Tour info: Одеса
+2024-10-01 14:37:20 - Tour info: Афіни
+2024-10-01 14:37:20 - Array
+2024-10-01 14:37:20 - Пассажир 1: Олег Чірко<br>
+2024-10-01 14:37:20 - Ticket added for passenger Олег
+2024-10-01 14:37:20 - Пассажир 2: Лідія Кудринська<br>
+2024-10-01 14:37:20 - Ticket added for passenger Лідія
+2024-10-01 14:37:20 - Tickets outputed
+2024-10-01 14:37:21 - Tickets sent tobasilliyc@gmail.com
+2024-10-01 14:37:21 - Tickets sent tomax210183@ukr.net
+2024-10-02 22:46:23 - Order info: Array
+(
+    [id] => 1000099
+    [order_date] => 2024-10-02 22:44:08
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-04
+    [passagers] => 1
+    [client_name] => Дарія
+    [client_surname] => Коваль
+    [client_email] => kovaldasharut45@gmail.com
+    [client_phone] => +38 (068) 748-7439
+)
+
+2024-10-02 22:46:23 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-04
+    [passagers] => 1
+)
+
+2024-10-02 22:46:23 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-02 22:46:23 - Tour info: Старосінна
+2024-10-02 22:46:23 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-02 22:46:23 - Tour info: Одеса
+2024-10-02 22:46:23 - Tour info: Бухарест
+2024-10-02 22:46:23 - Array
+2024-10-02 22:46:23 - GOT 1st ONE
+2024-10-02 22:46:23 - Tickets outputed
+2024-10-02 22:46:23 - Tickets sent tokovaldasharut45@gmail.com
+2024-10-02 22:46:23 - Tickets sent tomax210183@ukr.net
+2024-10-03 19:16:11 - Order info: Array
+(
+    [id] => 1000100
+    [order_date] => 2024-10-03 19:09:22
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-10
+    [passagers] => 2
+    [client_name] => Габриель
+    [client_surname] => Пилипенко
+    [client_email] => Gabrielpilipenko@hotmail.com
+    [client_phone] => +38 (068) 117-5812
+)
+
+2024-10-03 19:16:11 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-10-10
+    [passagers] => 2
+)
+
+2024-10-03 19:16:11 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-03 19:16:11 - Tour info: Старосінна
+2024-10-03 19:16:11 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-03 19:16:11 - Tour info: Одеса
+2024-10-03 19:16:11 - Tour info: Бухарест
+2024-10-03 19:16:11 - Array
+2024-10-03 19:16:11 - Пассажир 1: Габриель Пилипенко<br>
+2024-10-03 19:16:11 - Ticket added for passenger Габриель
+2024-10-03 19:16:11 - Пассажир 2: Марина Пепельжи<br>
+2024-10-03 19:16:11 - Ticket added for passenger Марина
+2024-10-03 19:16:11 - Tickets outputed
+2024-10-03 19:16:11 - Tickets sent toGabrielpilipenko@hotmail.com
+2024-10-03 19:16:12 - Tickets sent tomax210183@ukr.net
+2024-10-03 19:17:42 - Order info: Array
+(
+    [id] => 1000100
+    [order_date] => 2024-10-03 19:09:22
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-10
+    [passagers] => 2
+    [client_name] => Габриель
+    [client_surname] => Пилипенко
+    [client_email] => Gabrielpilipenko@hotmail.com
+    [client_phone] => +38 (068) 117-5812
+)
+
+2024-10-03 19:17:42 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-10-10
+    [passagers] => 2
+)
+
+2024-10-03 19:17:42 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-03 19:17:42 - Tour info: Старосінна
+2024-10-03 19:17:42 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-03 19:17:42 - Tour info: Одеса
+2024-10-03 19:17:42 - Tour info: Бухарест
+2024-10-03 19:17:42 - Array
+2024-10-03 19:17:42 - Пассажир 1: Габриель Пилипенко<br>
+2024-10-03 19:17:42 - Ticket added for passenger Габриель
+2024-10-03 19:17:42 - Пассажир 2: Марина Пепельжи<br>
+2024-10-03 19:17:42 - Ticket added for passenger Марина
+2024-10-03 19:17:42 - Tickets outputed
+2024-10-03 19:17:42 - Tickets sent toGabrielpilipenko@hotmail.com
+2024-10-03 19:17:42 - Tickets sent tomax210183@ukr.net
+2024-10-06 20:47:05 - Order info: Array
+(
+    [id] => 1000103
+    [order_date] => 2024-10-06 20:46:38
+    [from_stop] => 87
+    [to_stop] => 86
+    [tour_date] => 2024-10-07
+    [passagers] => 1
+    [client_name] => Кристина
+    [client_surname] => Калугина
+    [client_email] => Olga.kucherenenko@gmail.com
+    [client_phone] => +38 (099) 140-8940
+)
+
+2024-10-06 20:47:05 - Tour info: Array
+(
+    [tour_id] => 44
+    [tour_date] => 2024-10-07
+    [passagers] => 1
+)
+
+2024-10-06 20:47:05 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Кишинів
+    [arrival_time] => 15:30:00
+    [arrival_station] => АВ
+    [arrival_city] => Дніпро
+    [bus] => Автобус на 49 місць
+    [price] => 950
+)
+
+2024-10-06 20:47:05 - Tour info: Старосінна
+2024-10-06 20:47:05 - Tour info: АВ
+2024-10-06 20:47:05 - Tour info: Одеса
+2024-10-06 20:47:05 - Tour info: Дніпро
+2024-10-06 20:47:05 - Array
+2024-10-06 20:47:05 - GOT 1st ONE
+2024-10-06 20:47:05 - Tickets outputed
+2024-10-06 20:47:05 - Tickets sent toOlga.kucherenenko@gmail.com
+2024-10-06 20:47:05 - Tickets sent tomax210183@ukr.net
+2024-10-06 23:01:24 - Order info: Array
+(
+    [id] => 1000104
+    [order_date] => 2024-10-06 23:00:46
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-10-11
+    [passagers] => 1
+    [client_name] => Светлана
+    [client_surname] => Широбокова
+    [client_email] => skg.limited92@gmail.com
+    [client_phone] => +38 (050) 691-3386
+)
+
+2024-10-06 23:01:24 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-10-11
+    [passagers] => 1
+)
+
+2024-10-06 23:01:24 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => АВ &#34;Центральний&#34;
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-10-06 23:01:24 - Tour info: АВ &#34;Центральний&#34;
+2024-10-06 23:01:24 - Tour info: АВ &#34;Центральний&#34;
+2024-10-06 23:01:24 - Tour info: Київ
+2024-10-06 23:01:24 - Tour info: Софія
+2024-10-06 23:01:24 - Array
+2024-10-06 23:01:24 - GOT 1st ONE
+2024-10-06 23:01:24 - Tickets outputed
+2024-10-06 23:01:24 - Tickets sent toskg.limited92@gmail.com
+2024-10-06 23:01:24 - Tickets sent tomax210183@ukr.net
+2024-10-07 11:25:50 - Order info: Array
+(
+    [id] => 1000105
+    [order_date] => 2024-10-07 11:25:11
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-17
+    [passagers] => 1
+    [client_name] => Наталья
+    [client_surname] => Киреева
+    [client_email] => natalya.bghomebuild@gmail.com
+    [client_phone] => +38 (097) 213-8695
+)
+
+2024-10-07 11:25:50 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-10-17
+    [passagers] => 1
+)
+
+2024-10-07 11:25:50 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-07 11:25:50 - Tour info: Старосінна
+2024-10-07 11:25:50 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-07 11:25:50 - Tour info: Одеса
+2024-10-07 11:25:50 - Tour info: Бухарест
+2024-10-07 11:25:50 - Array
+2024-10-07 11:25:50 - GOT 1st ONE
+2024-10-07 11:25:50 - Tickets outputed
+2024-10-07 11:25:50 - Tickets sent tonatalya.bghomebuild@gmail.com
+2024-10-07 11:25:50 - Tickets sent tomax210183@ukr.net
+2024-10-07 11:40:42 - Order info: Array
+(
+    [id] => 1000106
+    [order_date] => 2024-10-07 11:37:11
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-17
+    [passagers] => 1
+    [client_name] => Тетяна
+    [client_surname] => Броницька
+    [client_email] => btkbtk02970@gmail.com
+    [client_phone] => +38 (093) 234-3140
+)
+
+2024-10-07 11:40:42 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-10-17
+    [passagers] => 1
+)
+
+2024-10-07 11:40:42 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-07 11:40:42 - Tour info: Старосінна
+2024-10-07 11:40:42 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-07 11:40:42 - Tour info: Одеса
+2024-10-07 11:40:42 - Tour info: Бухарест
+2024-10-07 11:40:42 - Array
+2024-10-07 11:40:42 - GOT 1st ONE
+2024-10-07 11:40:42 - Tickets outputed
+2024-10-07 11:40:42 - Tickets sent tobtkbtk02970@gmail.com
+2024-10-07 11:40:42 - Tickets sent tomax210183@ukr.net
+2024-10-07 11:50:09 - Order info: Array
+(
+    [id] => 1000107
+    [order_date] => 2024-10-07 11:48:29
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-17
+    [passagers] => 2
+    [client_name] => Олена
+    [client_surname] => Киричук
+    [client_email] => olenabronicka@gmail.com
+    [client_phone] => +38 (093) 128-8526
+)
+
+2024-10-07 11:50:09 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-10-17
+    [passagers] => 2
+)
+
+2024-10-07 11:50:09 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 18:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-07 11:50:09 - Tour info: Старосінна
+2024-10-07 11:50:09 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-07 11:50:09 - Tour info: Одеса
+2024-10-07 11:50:09 - Tour info: Бухарест
+2024-10-07 11:50:09 - Array
+2024-10-07 11:50:09 - Пассажир 1: Олена Киричук<br>
+2024-10-07 11:50:09 - Ticket added for passenger Олена
+2024-10-07 11:50:09 - Пассажир 2: Аліса Гомза<br>
+2024-10-07 11:50:10 - Ticket added for passenger Аліса
+2024-10-07 11:50:10 - Tickets outputed
+2024-10-07 11:50:10 - Tickets sent toolenabronicka@gmail.com
+2024-10-07 11:50:10 - Tickets sent tomax210183@ukr.net
+2024-10-07 16:20:34 - Order info: Array
+(
+    [id] => 1000108
+    [order_date] => 2024-10-07 16:20:21
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-09
+    [passagers] => 1
+    [client_name] => Юлія
+    [client_surname] => Батуріна
+    [client_email] => juliabaturina2003@gmail.com
+    [client_phone] => +38 (095) 511-4214
+)
+
+2024-10-07 16:20:34 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-09
+    [passagers] => 1
+)
+
+2024-10-07 16:20:34 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-07 16:20:34 - Tour info: Старосінна
+2024-10-07 16:20:34 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-07 16:20:34 - Tour info: Одеса
+2024-10-07 16:20:34 - Tour info: Бухарест
+2024-10-07 16:20:34 - Array
+2024-10-07 16:20:34 - GOT 1st ONE
+2024-10-07 16:20:34 - Tickets outputed
+2024-10-07 16:20:35 - Tickets sent tojuliabaturina2003@gmail.com
+2024-10-07 16:20:35 - Tickets sent tomax210183@ukr.net
+2024-10-10 13:20:05 - Order info: Array
+(
+    [id] => 1000111
+    [order_date] => 2024-10-10 13:18:16
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-11-03
+    [passagers] => 1
+    [client_name] => Світлана
+    [client_surname] => Підручна
+    [client_email] => tzaxes.od@gmail.com
+    [client_phone] => +38 (096) 514-6813
+)
+
+2024-10-10 13:20:05 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-11-03
+    [passagers] => 1
+)
+
+2024-10-10 13:20:05 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-10 13:20:05 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-10 13:20:05 - Tour info: Старосінна
+2024-10-10 13:20:05 - Tour info: Бухарест
+2024-10-10 13:20:05 - Tour info: Одеса
+2024-10-10 13:20:05 - Array
+2024-10-10 13:20:05 - GOT 1st ONE
+2024-10-10 13:20:06 - Tickets outputed
+2024-10-10 13:20:06 - Tickets sent totzaxes.od@gmail.com
+2024-10-10 13:20:06 - Tickets sent tomax210183@ukr.net
+2024-10-10 19:33:58 - Order info: Array
+(
+    [id] => 1000112
+    [order_date] => 2024-10-10 19:33:42
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-16
+    [passagers] => 1
+    [client_name] => Дарья
+    [client_surname] => Альянова
+    [client_email] => Daria.alianova@gmail.com
+    [client_phone] => +38 (073) 712-1000
+)
+
+2024-10-10 19:33:58 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-16
+    [passagers] => 1
+)
+
+2024-10-10 19:33:58 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-10 19:33:58 - Tour info: Старосінна
+2024-10-10 19:33:58 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-10 19:33:58 - Tour info: Одеса
+2024-10-10 19:33:58 - Tour info: Бухарест
+2024-10-10 19:33:58 - Array
+2024-10-10 19:33:58 - GOT 1st ONE
+2024-10-10 19:33:58 - Tickets outputed
+2024-10-10 19:33:58 - Tickets sent toDaria.alianova@gmail.com
+2024-10-10 19:33:58 - Tickets sent tomax210183@ukr.net
+2024-10-11 13:48:17 - Order info: Array
+(
+    [id] => 1000114
+    [order_date] => 2024-10-11 13:47:27
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-10-14
+    [passagers] => 1
+    [client_name] => Елена
+    [client_surname] => Блощак
+    [client_email] => ardanmishel@gmail.com
+    [client_phone] => +38 (067) 294-1716
+)
+
+2024-10-11 13:48:17 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-10-14
+    [passagers] => 1
+)
+
+2024-10-11 13:48:17 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-11 13:48:17 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-11 13:48:17 - Tour info: Старосінна
+2024-10-11 13:48:17 - Tour info: Бухарест
+2024-10-11 13:48:17 - Tour info: Одеса
+2024-10-11 13:48:17 - Array
+2024-10-11 13:48:17 - GOT 1st ONE
+2024-10-11 13:48:17 - Tickets outputed
+2024-10-11 13:48:18 - Tickets sent toardanmishel@gmail.com
+2024-10-11 13:48:18 - Tickets sent tomax210183@ukr.net
+2024-10-13 08:01:51 - Order info: Array
+(
+    [id] => 1000118
+    [order_date] => 2024-10-13 08:01:31
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-10-14
+    [passagers] => 1
+    [client_name] => Юлія
+    [client_surname] => Батуріна
+    [client_email] => juliabaturina2003@gmail.con
+    [client_phone] => +38 (095) 511-4214
+)
+
+2024-10-13 08:01:51 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-10-14
+    [passagers] => 1
+)
+
+2024-10-13 08:01:51 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-13 08:01:51 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-13 08:01:51 - Tour info: Старосінна
+2024-10-13 08:01:51 - Tour info: Бухарест
+2024-10-13 08:01:51 - Tour info: Одеса
+2024-10-13 08:01:51 - Array
+2024-10-13 08:01:51 - GOT 1st ONE
+2024-10-13 08:01:51 - Tickets outputed
+2024-10-13 08:01:51 - Tickets sent tojuliabaturina2003@gmail.con
+2024-10-13 08:01:52 - Tickets sent tomax210183@ukr.net
+2024-10-17 12:27:22 - Order info: Array
+(
+    [id] => 1000123
+    [order_date] => 2024-10-17 12:26:16
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-10-19
+    [passagers] => 1
+    [client_name] => Наталья
+    [client_surname] => Киреева
+    [client_email] => Natalya.bghomebuild@gmail.com
+    [client_phone] => +38 (097) 213-8695
+)
+
+2024-10-17 12:27:22 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-10-19
+    [passagers] => 1
+)
+
+2024-10-17 12:27:22 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-17 12:27:22 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-17 12:27:22 - Tour info: Старосінна
+2024-10-17 12:27:22 - Tour info: Бухарест
+2024-10-17 12:27:22 - Tour info: Одеса
+2024-10-17 12:27:22 - Array
+2024-10-17 12:27:22 - GOT 1st ONE
+2024-10-17 12:27:22 - Tickets outputed
+2024-10-17 12:27:22 - Tickets sent toNatalya.bghomebuild@gmail.com
+2024-10-17 12:27:22 - Tickets sent tomax210183@ukr.net
+2024-10-17 12:29:45 - Order info: Array
+(
+    [id] => 1000124
+    [order_date] => 2024-10-17 12:28:11
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-10-19
+    [passagers] => 1
+    [client_name] => Тетяна
+    [client_surname] => Броницька
+    [client_email] => btkbtk02970@gmail.com
+    [client_phone] => +38 (093) 234-3140
+)
+
+2024-10-17 12:29:45 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-10-19
+    [passagers] => 1
+)
+
+2024-10-17 12:29:45 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-17 12:29:45 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-17 12:29:45 - Tour info: Старосінна
+2024-10-17 12:29:45 - Tour info: Бухарест
+2024-10-17 12:29:45 - Tour info: Одеса
+2024-10-17 12:29:45 - Array
+2024-10-17 12:29:46 - GOT 1st ONE
+2024-10-17 12:29:46 - Tickets outputed
+2024-10-17 12:29:46 - Tickets sent tobtkbtk02970@gmail.com
+2024-10-17 12:29:46 - Tickets sent tomax210183@ukr.net
+2024-10-17 12:31:14 - Order info: Array
+(
+    [id] => 1000125
+    [order_date] => 2024-10-17 12:29:56
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-10-19
+    [passagers] => 2
+    [client_name] => Олена
+    [client_surname] => Киричук
+    [client_email] => olenabronicka@gmail.com
+    [client_phone] => +38 (093) 128-8526
+)
+
+2024-10-17 12:31:14 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-10-19
+    [passagers] => 2
+)
+
+2024-10-17 12:31:14 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-17 12:31:14 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-17 12:31:14 - Tour info: Старосінна
+2024-10-17 12:31:14 - Tour info: Бухарест
+2024-10-17 12:31:14 - Tour info: Одеса
+2024-10-17 12:31:14 - Array
+2024-10-17 12:31:14 - Пассажир 1: Олена Киричук<br>
+2024-10-17 12:31:14 - Ticket added for passenger Олена
+2024-10-17 12:31:14 - Пассажир 2: Аліса Гомза<br>
+2024-10-17 12:31:14 - Ticket added for passenger Аліса
+2024-10-17 12:31:14 - Tickets outputed
+2024-10-17 12:31:14 - Tickets sent toolenabronicka@gmail.com
+2024-10-17 12:31:14 - Tickets sent tomax210183@ukr.net
+2024-10-20 14:07:22 - Order info: Array
+(
+    [id] => 1000128
+    [order_date] => 2024-10-20 14:01:36
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-10-21
+    [passagers] => 1
+    [client_name] => Oleg
+    [client_surname] => Zaichykov
+    [client_email] => zaychykoff57@gmail.com
+    [client_phone] => +38 (063) 956-6730
+)
+
+2024-10-20 14:07:22 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-10-21
+    [passagers] => 1
+)
+
+2024-10-20 14:07:22 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-20 14:07:22 - Tour info: Старосінна
+2024-10-20 14:07:22 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-20 14:07:22 - Tour info: Одеса
+2024-10-20 14:07:22 - Tour info: Бухарест
+2024-10-20 14:07:22 - Array
+2024-10-20 14:07:22 - GOT 1st ONE
+2024-10-20 14:07:22 - Tickets outputed
+2024-10-20 14:07:22 - Tickets sent tozaychykoff57@gmail.com
+2024-10-20 14:07:22 - Tickets sent tomax210183@ukr.net
+2024-10-21 12:21:56 - Order info: Array
+(
+    [id] => 1000130
+    [order_date] => 2024-10-21 12:21:29
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-08
+    [passagers] => 2
+    [client_name] => Владимир
+    [client_surname] => Осталеп
+    [client_email] => Ubiyko2@gmail.com
+    [client_phone] => +38 (099) 317-3236
+)
+
+2024-10-21 12:21:56 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-11-08
+    [passagers] => 2
+)
+
+2024-10-21 12:21:56 - Tour info: Array
+(
+    [departure_time] => 21:30:00
+    [departure_station] => Старосінна
+    [departure_city] => Київ
+    [arrival_time] => 10:00:00
+    [arrival_station] => &#34;Готель Континенталь&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-21 12:21:56 - Tour info: Старосінна
+2024-10-21 12:21:56 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-21 12:21:56 - Tour info: Одеса
+2024-10-21 12:21:56 - Tour info: Бухарест
+2024-10-21 12:21:56 - Array
+2024-10-21 12:21:56 - Пассажир 1: Владимир Осталеп<br>
+2024-10-21 12:21:56 - Ticket added for passenger Владимир
+2024-10-21 12:21:56 - Пассажир 2: Наталья Убийко<br>
+2024-10-21 12:21:56 - Ticket added for passenger Наталья
+2024-10-21 12:21:56 - Tickets outputed
+2024-10-21 12:21:56 - Tickets sent toUbiyko2@gmail.com
+2024-10-21 12:21:57 - Tickets sent tomax210183@ukr.net
+2024-10-21 12:35:51 - Order info: Array
+(
+    [id] => 1000131
+    [order_date] => 2024-10-21 12:35:37
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-11-11
+    [passagers] => 2
+    [client_name] => Наталья
+    [client_surname] => Убийко
+    [client_email] => Ubiyko2@gmail.com
+    [client_phone] => +38 (099) 317-3236
+)
+
+2024-10-21 12:35:51 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-11-11
+    [passagers] => 2
+)
+
+2024-10-21 12:35:51 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель Континенталь&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1600
+)
+
+2024-10-21 12:35:51 - Tour info: &#34;Готель Континенталь&#34;
+2024-10-21 12:35:51 - Tour info: Старосінна
+2024-10-21 12:35:51 - Tour info: Бухарест
+2024-10-21 12:35:51 - Tour info: Одеса
+2024-10-21 12:35:51 - Array
+2024-10-21 12:35:51 - Пассажир 1: Наталья Убийко<br>
+2024-10-21 12:35:51 - Ticket added for passenger Наталья
+2024-10-21 12:35:51 - Пассажир 2: Владимир Осталеп<br>
+2024-10-21 12:35:51 - Ticket added for passenger Владимир
+2024-10-21 12:35:51 - Tickets outputed
+2024-10-21 12:35:51 - Tickets sent toUbiyko2@gmail.com
+2024-10-21 12:35:51 - Tickets sent tomax210183@ukr.net
+2024-10-25 21:00:39 - Order info: Array
+(
+    [id] => 1000138
+    [order_date] => 2024-10-25 21:00:21
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-03
+    [passagers] => 2
+    [client_name] => Екатерина
+    [client_surname] => Синиговец
+    [client_email] => ketrinviktori7390@gmail.com
+    [client_phone] => +38 (068) 660-0270
+)
+
+2024-10-25 21:00:39 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-03
+    [passagers] => 2
+)
+
+2024-10-25 21:00:39 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-10-25 21:00:39 - Tour info: Старосінна
+2024-10-25 21:00:39 - Tour info: &#34;Готель My Continental&#34;
+2024-10-25 21:00:39 - Tour info: Одеса
+2024-10-25 21:00:39 - Tour info: Бухарест
+2024-10-25 21:00:39 - Array
+2024-10-25 21:00:39 - Пассажир 1: Екатерина Синиговец<br>
+2024-10-25 21:00:39 - Ticket added for passenger Екатерина
+2024-10-25 21:00:39 - Пассажир 2: Анжела Синиговец<br>
+2024-10-25 21:00:39 - Ticket added for passenger Анжела
+2024-10-25 21:00:39 - Tickets outputed
+2024-10-25 21:00:39 - Tickets sent toketrinviktori7390@gmail.com
+2024-10-25 21:00:40 - Tickets sent tomax210183@ukr.net
+2024-10-27 09:42:58 - Order info: Array
+(
+    [id] => 1000139
+    [order_date] => 2024-10-27 09:42:44
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-03
+    [passagers] => 2
+    [client_name] => Яна
+    [client_surname] => Діденко
+    [client_email] => yaniya93@ukr.net
+    [client_phone] => +38 (093) 141-1370
+)
+
+2024-10-27 09:42:58 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-03
+    [passagers] => 2
+)
+
+2024-10-27 09:42:58 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-10-27 09:42:58 - Tour info: Старосінна
+2024-10-27 09:42:58 - Tour info: &#34;Готель My Continental&#34;
+2024-10-27 09:42:58 - Tour info: Одеса
+2024-10-27 09:42:58 - Tour info: Бухарест
+2024-10-27 09:42:58 - Array
+2024-10-27 09:42:58 - Пассажир 1: Яна Діденко<br>
+2024-10-27 09:42:58 - Ticket added for passenger Яна
+2024-10-27 09:42:58 - Пассажир 2: Оксана Парфенюк<br>
+2024-10-27 09:42:58 - Ticket added for passenger Оксана
+2024-10-27 09:42:58 - Tickets outputed
+2024-10-27 09:42:58 - Tickets sent toyaniya93@ukr.net
+2024-10-27 09:42:58 - Tickets sent tomax210183@ukr.net
+2024-10-30 20:14:51 - Order info: Array
+(
+    [id] => 1000140
+    [order_date] => 2024-10-30 20:14:23
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-13
+    [passagers] => 2
+    [client_name] => Liubov
+    [client_surname] => Birulia
+    [client_email] => an.birulia@gmail.com
+    [client_phone] => +38 (068) 781-8259
+)
+
+2024-10-30 20:14:51 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-11-13
+    [passagers] => 2
+)
+
+2024-10-30 20:14:51 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-10-30 20:14:51 - Tour info: Старосінна
+2024-10-30 20:14:51 - Tour info: &#34;Готель My Continental&#34;
+2024-10-30 20:14:51 - Tour info: Одеса
+2024-10-30 20:14:51 - Tour info: Бухарест
+2024-10-30 20:14:51 - Array
+2024-10-30 20:14:51 - Пассажир 1: Liubov Birulia<br>
+2024-10-30 20:14:52 - Ticket added for passenger Liubov
+2024-10-30 20:14:52 - Пассажир 2: Hanna Birulia<br>
+2024-10-30 20:14:52 - Ticket added for passenger Hanna
+2024-10-30 20:14:52 - Tickets outputed
+2024-10-30 20:14:52 - Tickets sent toan.birulia@gmail.com
+2024-10-30 20:14:52 - Tickets sent tomax210183@ukr.net
+2024-11-01 12:27:07 - Order info: Array
+(
+    [id] => 1000142
+    [order_date] => 2024-11-01 12:25:16
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-11
+    [passagers] => 1
+    [client_name] => Sergii
+    [client_surname] => Bushuiev
+    [client_email] => bsg1956@gmail.com
+    [client_phone] => +38 (067) 518-6877
+)
+
+2024-11-01 12:27:07 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-11
+    [passagers] => 1
+)
+
+2024-11-01 12:27:07 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-01 12:27:07 - Tour info: Старосінна
+2024-11-01 12:27:07 - Tour info: &#34;Готель My Continental&#34;
+2024-11-01 12:27:07 - Tour info: Одеса
+2024-11-01 12:27:07 - Tour info: Бухарест
+2024-11-01 12:27:07 - Array
+2024-11-01 12:27:07 - GOT 1st ONE
+2024-11-01 12:27:07 - Tickets outputed
+2024-11-01 12:27:07 - Tickets sent tobsg1956@gmail.com
+2024-11-01 12:27:07 - Tickets sent tomax210183@ukr.net
+2024-11-04 13:44:29 - Order info: Array
+(
+    [id] => 1000144
+    [order_date] => 2024-11-04 13:43:57
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-06
+    [passagers] => 2
+    [client_name] => Руслан
+    [client_surname] => Латій
+    [client_email] => ruslanlion1976@ukr.net
+    [client_phone] => +38 (067) 276-1757
+)
+
+2024-11-04 13:44:29 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-06
+    [passagers] => 2
+)
+
+2024-11-04 13:44:29 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-04 13:44:29 - Tour info: Старосінна
+2024-11-04 13:44:29 - Tour info: &#34;Готель My Continental&#34;
+2024-11-04 13:44:29 - Tour info: Одеса
+2024-11-04 13:44:29 - Tour info: Бухарест
+2024-11-04 13:44:30 - Array
+2024-11-04 13:44:30 - Пассажир 1: Руслан Латій<br>
+2024-11-04 13:44:30 - Ticket added for passenger Руслан
+2024-11-04 13:44:30 - Пассажир 2: Борис Латій<br>
+2024-11-04 13:44:30 - Ticket added for passenger Борис
+2024-11-04 13:44:30 - Tickets outputed
+2024-11-04 13:44:30 - Tickets sent toruslanlion1976@ukr.net
+2024-11-04 13:44:30 - Tickets sent tomax210183@ukr.net
+2024-11-06 09:43:23 - Order info: Array
+(
+    [id] => 1000146
+    [order_date] => 2024-11-06 09:43:08
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-11
+    [passagers] => 1
+    [client_name] => Катерина
+    [client_surname] => Игнатьева
+    [client_email] => nikitasivak0502@gmail.com
+    [client_phone] => +38 (066) 852-3996
+)
+
+2024-11-06 09:43:23 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-11
+    [passagers] => 1
+)
+
+2024-11-06 09:43:23 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-06 09:43:23 - Tour info: Старосінна
+2024-11-06 09:43:23 - Tour info: &#34;Готель My Continental&#34;
+2024-11-06 09:43:23 - Tour info: Одеса
+2024-11-06 09:43:23 - Tour info: Бухарест
+2024-11-06 09:43:23 - Array
+2024-11-06 09:43:23 - GOT 1st ONE
+2024-11-06 09:43:23 - Tickets outputed
+2024-11-06 09:43:23 - Tickets sent tonikitasivak0502@gmail.com
+2024-11-06 09:43:23 - Tickets sent tomax210183@ukr.net
+2024-11-06 10:13:14 - Order info: Array
+(
+    [id] => 1000147
+    [order_date] => 2024-11-06 10:12:46
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-11-18
+    [passagers] => 4
+    [client_name] => Олена
+    [client_surname] => Єршова
+    [client_email] => y.y1084@gmail.com
+    [client_phone] => +38 (066) 133-0521
+)
+
+2024-11-06 10:13:14 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-11-18
+    [passagers] => 4
+)
+
+2024-11-06 10:13:14 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель My Continental&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-06 10:13:14 - Tour info: &#34;Готель My Continental&#34;
+2024-11-06 10:13:14 - Tour info: Старосінна
+2024-11-06 10:13:14 - Tour info: Бухарест
+2024-11-06 10:13:14 - Tour info: Одеса
+2024-11-06 10:13:14 - Array
+2024-11-06 10:13:14 - Пассажир 1: Олена Єршова<br>
+2024-11-06 10:13:14 - Ticket added for passenger Олена
+2024-11-06 10:13:14 - Пассажир 2: Ксенія Єршова<br>
+2024-11-06 10:13:15 - Ticket added for passenger Ксенія
+2024-11-06 10:13:15 - Пассажир 3: Євлалія Єршова<br>
+2024-11-06 10:13:15 - Ticket added for passenger Євлалія
+2024-11-06 10:13:15 - Пассажир 4: Олена Єршова<br>
+2024-11-06 10:13:15 - Ticket added for passenger Олена
+2024-11-06 10:13:15 - Tickets outputed
+2024-11-06 10:13:15 - Tickets sent toy.y1084@gmail.com
+2024-11-06 10:13:15 - Tickets sent tomax210183@ukr.net
+2024-11-06 10:37:01 - Order info: Array
+(
+    [id] => 1000148
+    [order_date] => 2024-11-06 10:35:13
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-23
+    [passagers] => 4
+    [client_name] => Олена
+    [client_surname] => Єршова
+    [client_email] => y.y1084@gmail.com
+    [client_phone] => +38 (066) 133-0521
+)
+
+2024-11-06 10:37:01 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-23
+    [passagers] => 4
+)
+
+2024-11-06 10:37:01 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-06 10:37:01 - Tour info: Старосінна
+2024-11-06 10:37:01 - Tour info: &#34;Готель My Continental&#34;
+2024-11-06 10:37:01 - Tour info: Одеса
+2024-11-06 10:37:01 - Tour info: Бухарест
+2024-11-06 10:37:01 - Array
+2024-11-06 10:37:01 - Пассажир 1: Олена Єршова<br>
+2024-11-06 10:37:01 - Ticket added for passenger Олена
+2024-11-06 10:37:01 - Пассажир 2: Ксенія Єршова<br>
+2024-11-06 10:37:01 - Ticket added for passenger Ксенія
+2024-11-06 10:37:01 - Пассажир 3: Євлалія Єршова<br>
+2024-11-06 10:37:01 - Ticket added for passenger Євлалія
+2024-11-06 10:37:01 - Пассажир 4: Олена Єршова<br>
+2024-11-06 10:37:01 - Ticket added for passenger Олена
+2024-11-06 10:37:01 - Tickets outputed
+2024-11-06 10:37:02 - Tickets sent toy.y1084@gmail.com
+2024-11-06 10:37:02 - Tickets sent tomax210183@ukr.net
+2024-11-06 11:04:13 - Order info: Array
+(
+    [id] => 1000149
+    [order_date] => 2024-11-06 11:03:41
+    [from_stop] => 47
+    [to_stop] => 120
+    [tour_date] => 2024-11-08
+    [passagers] => 1
+    [client_name] => Дарина
+    [client_surname] => Сухіна
+    [client_email] => dashasukhina@gmail.com
+    [client_phone] => +38 (063) 965-0278
+)
+
+2024-11-06 11:04:13 - Tour info: Array
+(
+    [tour_id] => 38
+    [tour_date] => 2024-11-08
+    [passagers] => 1
+)
+
+2024-11-06 11:04:13 - Tour info: Array
+(
+    [departure_time] => 13:00:00
+    [departure_station] => Центральний автовокзал Києва
+    [departure_city] => Київ
+    [arrival_time] => 18:00:00
+    [arrival_station] => АВ &#34;Центральний&#34;
+    [arrival_city] => Афіни
+    [bus] => Автобус на 49 місць
+    [price] => 3000
+)
+
+2024-11-06 11:04:13 - Tour info: Центральний автовокзал Києва
+2024-11-06 11:04:13 - Tour info: АВ &#34;Центральний&#34;
+2024-11-06 11:04:13 - Tour info: Київ
+2024-11-06 11:04:13 - Tour info: Софія
+2024-11-06 11:04:13 - Array
+2024-11-06 11:04:13 - GOT 1st ONE
+2024-11-06 11:04:13 - Tickets outputed
+2024-11-06 11:04:13 - Tickets sent todashasukhina@gmail.com
+2024-11-06 11:04:14 - Tickets sent tomax210183@ukr.net
+2024-11-10 21:04:15 - Order info: Array
+(
+    [id] => 1000153
+    [order_date] => 2024-11-10 21:03:55
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-19
+    [passagers] => 1
+    [client_name] => Олександр
+    [client_surname] => Юзвак
+    [client_email] => phoeniks.uz@icloud.com
+    [client_phone] => +38 (050) 391-9019
+)
+
+2024-11-10 21:04:15 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-11-19
+    [passagers] => 1
+)
+
+2024-11-10 21:04:15 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-10 21:04:15 - Tour info: Старосінна
+2024-11-10 21:04:15 - Tour info: &#34;Готель My Continental&#34;
+2024-11-10 21:04:15 - Tour info: Одеса
+2024-11-10 21:04:15 - Tour info: Бухарест
+2024-11-10 21:04:15 - Array
+2024-11-10 21:04:15 - GOT 1st ONE
+2024-11-10 21:04:15 - Tickets outputed
+2024-11-10 21:04:16 - Tickets sent tophoeniks.uz@icloud.com
+2024-11-10 21:04:16 - Tickets sent tomax210183@ukr.net
+2024-11-11 19:28:45 - Order info: Array
+(
+    [id] => 1000154
+    [order_date] => 2024-11-11 19:27:28
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-12
+    [passagers] => 1
+    [client_name] => Ольга
+    [client_surname] => Мирошниченко
+    [client_email] => Myra-olga@meta.ua
+    [client_phone] => +38 (050) 498-0055
+)
+
+2024-11-11 19:28:45 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-11-12
+    [passagers] => 1
+)
+
+2024-11-11 19:28:45 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-11 19:28:45 - Tour info: Старосінна
+2024-11-11 19:28:45 - Tour info: &#34;Готель My Continental&#34;
+2024-11-11 19:28:45 - Tour info: Одеса
+2024-11-11 19:28:45 - Tour info: Бухарест
+2024-11-11 19:28:45 - Array
+2024-11-11 19:28:45 - GOT 1st ONE
+2024-11-11 19:28:45 - Tickets outputed
+2024-11-11 19:28:45 - Tickets sent toMyra-olga@meta.ua
+2024-11-11 19:28:45 - Tickets sent tomax210183@ukr.net
+2024-11-15 14:30:40 - Order info: Array
+(
+    [id] => 1000156
+    [order_date] => 2024-11-15 14:29:11
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-25
+    [passagers] => 1
+    [client_name] => Олексій
+    [client_surname] => Косминський
+    [client_email] => prexit.ou@gmail.com
+    [client_phone] => +38 (098) 961-5735
+)
+
+2024-11-15 14:30:40 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-25
+    [passagers] => 1
+)
+
+2024-11-15 14:30:40 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-15 14:30:40 - Tour info: Старосінна
+2024-11-15 14:30:40 - Tour info: &#34;Готель My Continental&#34;
+2024-11-15 14:30:40 - Tour info: Одеса
+2024-11-15 14:30:40 - Tour info: Бухарест
+2024-11-15 14:30:40 - Array
+2024-11-15 14:30:40 - GOT 1st ONE
+2024-11-15 14:30:40 - Tickets outputed
+2024-11-15 14:30:40 - Tickets sent toprexit.ou@gmail.com
+2024-11-15 14:30:40 - Tickets sent tomax210183@ukr.net
+2024-11-20 13:46:39 - Order info: Array
+(
+    [id] => 1000158
+    [order_date] => 2024-11-20 13:45:56
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-22
+    [passagers] => 1
+    [client_name] => Марина
+    [client_surname] => Жигалюк
+    [client_email] => marinaajigalyuk@gmail.com
+    [client_phone] => +38 (099) 277-1880
+)
+
+2024-11-20 13:46:39 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-11-22
+    [passagers] => 1
+)
+
+2024-11-20 13:46:39 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-20 13:46:39 - Tour info: Старосінна
+2024-11-20 13:46:39 - Tour info: &#34;Готель My Continental&#34;
+2024-11-20 13:46:39 - Tour info: Одеса
+2024-11-20 13:46:39 - Tour info: Бухарест
+2024-11-20 13:46:39 - Array
+2024-11-20 13:46:39 - GOT 1st ONE
+2024-11-20 13:46:39 - Tickets outputed
+2024-11-20 13:46:39 - Tickets sent tomarinaajigalyuk@gmail.com
+2024-11-20 13:46:39 - Tickets sent tomax210183@ukr.net
+2024-11-21 11:24:27 - Order info: Array
+(
+    [id] => 1000159
+    [order_date] => 2024-11-21 11:24:05
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-12-16
+    [passagers] => 1
+    [client_name] => Людмила
+    [client_surname] => Гуцул
+    [client_email] => lyudmilagutsul@gmail.com
+    [client_phone] => +38 (066) 550-7233
+)
+
+2024-11-21 11:24:27 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-12-16
+    [passagers] => 1
+)
+
+2024-11-21 11:24:27 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-21 11:24:27 - Tour info: Старосінна
+2024-11-21 11:24:27 - Tour info: &#34;Готель My Continental&#34;
+2024-11-21 11:24:27 - Tour info: Одеса
+2024-11-21 11:24:27 - Tour info: Бухарест
+2024-11-21 11:24:27 - Array
+2024-11-21 11:24:27 - GOT 1st ONE
+2024-11-21 11:24:27 - Tickets outputed
+2024-11-21 11:24:27 - Tickets sent tolyudmilagutsul@gmail.com
+2024-11-21 11:24:27 - Tickets sent tomax210183@ukr.net
+2024-11-25 14:00:17 - Order info: Array
+(
+    [id] => 1000162
+    [order_date] => 2024-11-25 13:59:57
+    [from_stop] => 104
+    [to_stop] => 87
+    [tour_date] => 2024-11-26
+    [passagers] => 1
+    [client_name] => Елла
+    [client_surname] => Линецкая
+    [client_email] => Smaglu4ok@gmail.com
+    [client_phone] => +38 (095) 415-7654
+)
+
+2024-11-25 14:00:17 - Tour info: Array
+(
+    [tour_id] => 41
+    [tour_date] => 2024-11-26
+    [passagers] => 1
+)
+
+2024-11-25 14:00:17 - Tour info: Array
+(
+    [departure_time] => 21:00:00
+    [departure_station] => &#34;Готель My Continental&#34;
+    [departure_city] => Бухарест
+    [arrival_time] => 07:55:00
+    [arrival_station] => Старосінна
+    [arrival_city] => Київ
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-25 14:00:17 - Tour info: &#34;Готель My Continental&#34;
+2024-11-25 14:00:17 - Tour info: Старосінна
+2024-11-25 14:00:17 - Tour info: Бухарест
+2024-11-25 14:00:17 - Tour info: Одеса
+2024-11-25 14:00:17 - Array
+2024-11-25 14:00:17 - GOT 1st ONE
+2024-11-25 14:00:17 - Tickets outputed
+2024-11-25 14:00:17 - Tickets sent toSmaglu4ok@gmail.com
+2024-11-25 14:00:17 - Tickets sent tomax210183@ukr.net
+2024-11-25 15:45:49 - Order info: Array
+(
+    [id] => 1000163
+    [order_date] => 2024-11-25 15:44:37
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-12-01
+    [passagers] => 2
+    [client_name] => Мария
+    [client_surname] => Дементьева
+    [client_email] => dementyeva.mariya.a@gmail.com
+    [client_phone] => +38 (063) 045-0143
+)
+
+2024-11-25 15:45:49 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-12-01
+    [passagers] => 2
+)
+
+2024-11-25 15:45:49 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-25 15:45:49 - Tour info: Старосінна
+2024-11-25 15:45:49 - Tour info: &#34;Готель My Continental&#34;
+2024-11-25 15:45:49 - Tour info: Одеса
+2024-11-25 15:45:49 - Tour info: Бухарест
+2024-11-25 15:45:49 - Array
+2024-11-25 15:45:50 - Пассажир 1: Мария Дементьева<br>
+2024-11-25 15:45:50 - Ticket added for passenger Мария
+2024-11-25 15:45:50 - Пассажир 2: Виктория Вялых<br>
+2024-11-25 15:45:50 - Ticket added for passenger Виктория
+2024-11-25 15:45:50 - Tickets outputed
+2024-11-25 15:45:50 - Tickets sent todementyeva.mariya.a@gmail.com
+2024-11-25 15:45:50 - Tickets sent tomax210183@ukr.net
+2024-11-25 17:36:43 - Order info: Array
+(
+    [id] => 1000164
+    [order_date] => 2024-11-25 17:36:12
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-29
+    [passagers] => 1
+    [client_name] => Оксана
+    [client_surname] => Каменская
+    [client_email] => ox.kar280971@gmail.com
+    [client_phone] => +38 (093) 978-5851
+)
+
+2024-11-25 17:36:43 - Tour info: Array
+(
+    [tour_id] => 34
+    [tour_date] => 2024-11-29
+    [passagers] => 1
+)
+
+2024-11-25 17:36:43 - Tour info: Array
+(
+    [departure_time] => 07:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 19:00:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-25 17:36:43 - Tour info: Старосінна
+2024-11-25 17:36:43 - Tour info: &#34;Готель My Continental&#34;
+2024-11-25 17:36:43 - Tour info: Одеса
+2024-11-25 17:36:43 - Tour info: Бухарест
+2024-11-25 17:36:43 - Array
+2024-11-25 17:36:43 - GOT 1st ONE
+2024-11-25 17:36:43 - Tickets outputed
+2024-11-25 17:36:43 - Tickets sent toox.kar280971@gmail.com
+2024-11-25 17:36:43 - Tickets sent tomax210183@ukr.net
+2024-11-28 18:00:16 - Order info: Array
+(
+    [id] => 1000170
+    [order_date] => 2024-11-28 17:59:41
+    [from_stop] => 87
+    [to_stop] => 104
+    [tour_date] => 2024-11-29
+    [passagers] => 1
+    [client_name] => Олександр
+    [client_surname] => Онкалюк
+    [client_email] => captain.onkalyuk@gmail.com
+    [client_phone] => +38 (063) 304-3561
+)
+
+2024-11-28 18:00:16 - Tour info: Array
+(
+    [tour_id] => 36
+    [tour_date] => 2024-11-29
+    [passagers] => 1
+)
+
+2024-11-28 18:00:16 - Tour info: Array
+(
+    [departure_time] => 19:00:00
+    [departure_station] => Старосінна
+    [departure_city] => Одеса
+    [arrival_time] => 08:30:00
+    [arrival_station] => &#34;Готель My Continental&#34;
+    [arrival_city] => Бухарест
+    [bus] => Автобус на 49 місць
+    [price] => 1800
+)
+
+2024-11-28 18:00:16 - Tour info: Старосінна
+2024-11-28 18:00:16 - Tour info: &#34;Готель My Continental&#34;
+2024-11-28 18:00:16 - Tour info: Одеса
+2024-11-28 18:00:16 - Tour info: Бухарест
+2024-11-28 18:00:16 - Array
+2024-11-28 18:00:16 - GOT 1st ONE
+2024-11-28 18:00:17 - Tickets outputed
+2024-11-28 18:00:17 - Tickets sent tocaptain.onkalyuk@gmail.com
+2024-11-28 18:00:17 - Tickets sent tomax210183@ukr.net
